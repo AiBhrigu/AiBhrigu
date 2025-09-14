@@ -10,45 +10,29 @@
 
 ## 🔭 Research
 - **Butusov** — logarithmic symmetry & planetary cycles  
-- **Semenko** — hierarchy of cycles (augmented methodology)  
-- **Gann & Merriman** — financial astrology & market timing  
-- **Sviridov** — applied astro-trading strategies  
-
-These methods form the foundation for **predictive models** of history, markets, and collective cycles.
+- **Semenko** — hierarchy of cycles  
+- **Gann & Merriman** — financial astrology  
+- **Sviridov** — astro-trading strategies  
 
 ---
 
 ## 🛠️ Tech & Tools
-- **Core**: Python · Ephemerides · Swiss Ephemeris  
-- **Automation**: CI/CD · GitHub Actions · Dependabot  
-- **Modules**: Crypto-astro package · Agents (Butusov, Semenko, Gann)  
-- **Reports**: Browser-ready charts · JSON/CSV exports · CLI tools  
-
-Everything runs locally (WSL2/Linux) with reproducible pipelines.
+Python · Ephemerides · Swiss Ephemeris · CI/CD · Dependabot · Agents
 
 ---
 
 ## 📊 Focus
-- 📈 **Financial cycles**: crypto & market turning points  
-- 🌍 **Historical patterns**: eclipses, wars, empires  
-- 🤖 **AI Agents**: automate cycle detection & prediction  
-- 🚀 **History Machine**: blending astronomy, astrology, and data science  
+- 📈 Financial cycles  
+- 🌍 Historical patterns  
+- 🤖 AI Agents  
+- 🚀 History Machine  
 
 ---
 
 ## 🗺️ Roadmap
-👉 [See the GitHub Project Roadmap](https://github.com/users/AiBhrigu/projects/3/views/1?layout=roadmap)  
-Main milestones:
-1. Stable ephemeris & cache system ✅  
-2. Authors’ modules (Butusov, Semenko, etc.) in production ⚙️  
-3. Interactive reports in browser 🌐  
-4. Integration with ICP/Ninja for decentralized agents (future) 🔮  
+👉 [Roadmap](https://github.com/users/AiBhrigu/projects/3/views/1?layout=roadmap)  
 
 ---
 
 ## 🌌 Vision
-BHRIGU / ORION is not just code — it’s an attempt to **map the hidden cycles of history** and build tools for the next generation of researchers, traders, and explorers.  
-
-📖 *"History doesn’t repeat itself, but it rhymes — our task is to decode the rhythm."*
-
----
+*"History doesn’t repeat itself, but it rhymes — our task is to decode the rhythm."*
