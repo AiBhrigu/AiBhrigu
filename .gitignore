@@ -76,3 +76,27 @@ bhrigu-*/
 bri-dao-icp/
 oracul/
 orion-*/
+
+# --- Docker & containerization ---
+Dockerfile.local
+Dockerfile.dev
+Dockerfile.prod
+docker-compose*.yml
+*.tar
+*.img
+*.squashfs
+*.log
+volumes/
+.tmp/
+.docker/
+*.pid
+
+# --- Systemd & local services ---
+*.service
+*.timer
+*.target
+*.socket
+*.mount
+*.wants/
+*.requires/
+*.journal
