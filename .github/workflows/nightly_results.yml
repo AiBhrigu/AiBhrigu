@@ -1,46 +1,37 @@
 name: nightly-results
-
-on:
+true:
   schedule:
-    - cron: "7 2 * * *"
-  workflow_dispatch:
-
+  - cron: 7 2 * * *
+  workflow_dispatch: null
 jobs:
   snapshot:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Build results-v1.zip
-        run: |
-          python - <<'PY'
-          import os, sys, json, zipfile, hashlib, datetime
-          from pathlib import Path
-          repo = Path.cwd()
-          # В CI ожидаем, что артефакты уже в orion_ai/results, если нет — создаём пустой манифест
-          results = Path.home() / "orion_ai" / "results"
-          results.mkdir(parents=True, exist_ok=True)
-          mf = results / "MANIFEST.json"
-          if not mf.exists():
-            mf.write_text(json.dumps({
-              "manifest_version":"v1","app":{"name":"ORION","version":"0.3.0"},
-              "built_at": datetime.datetime.utcnow().isoformat()+"Z","artifacts":[]
-            }, indent=2))
-          out = repo / "results-v1.zip"
-          with zipfile.ZipFile(out, "w", compression=zipfile.ZIP_DEFLATED) as z:
-            for root,_,files in os.walk(results):
-              for f in files:
-                fp = Path(root)/f
-                z.write(fp, arcname=str(fp.relative_to(results)))
-          h = hashlib.sha256(out.read_bytes()).hexdigest()
-          print(json.dumps({"zip":str(out), "sha256":h, "size":out.stat().st_size}, indent=2))
-          PY
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: results-v1
-          path: results-v1.zip
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - name: Build results-v1.zip
+      run: "python - <<'PY'\nimport os, sys, json, zipfile, hashlib, datetime\nfrom\
+        \ pathlib import Path\nrepo = Path.cwd()\n# \u0412 CI \u043E\u0436\u0438\u0434\
+        \u0430\u0435\u043C, \u0447\u0442\u043E \u0430\u0440\u0442\u0435\u0444\u0430\
+        \u043A\u0442\u044B \u0443\u0436\u0435 \u0432 orion_ai/results, \u0435\u0441\
+        \u043B\u0438 \u043D\u0435\u0442 \u2014 \u0441\u043E\u0437\u0434\u0430\u0451\
+        \u043C \u043F\u0443\u0441\u0442\u043E\u0439 \u043C\u0430\u043D\u0438\u0444\
+        \u0435\u0441\u0442\nresults = Path.home() / \"orion_ai\" / \"results\"\nresults.mkdir(parents=True,\
+        \ exist_ok=True)\nmf = results / \"MANIFEST.json\"\nif not mf.exists():\n\
+        \  mf.write_text(json.dumps({\n    \"manifest_version\":\"v1\",\"app\":{\"\
+        name\":\"ORION\",\"version\":\"0.3.0\"},\n    \"built_at\": datetime.datetime.utcnow().isoformat()+\"\
+        Z\",\"artifacts\":[]\n  }, indent=2))\nout = repo / \"results-v1.zip\"\nwith\
+        \ zipfile.ZipFile(out, \"w\", compression=zipfile.ZIP_DEFLATED) as z:\n  for\
+        \ root,_,files in os.walk(results):\n    for f in files:\n      fp = Path(root)/f\n\
+        \      z.write(fp, arcname=str(fp.relative_to(results)))\nh = hashlib.sha256(out.read_bytes()).hexdigest()\n\
+        print(json.dumps({\"zip\":str(out), \"sha256\":h, \"size\":out.stat().st_size},\
+        \ indent=2))\nPY\n"
+    - uses: actions/upload-artifact@v4
+      with:
+        name: results-v1
+        path: results-v1.zip
+permissions:
+  contents: read
+  actions: write
