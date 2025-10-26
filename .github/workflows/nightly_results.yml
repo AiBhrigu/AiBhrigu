@@ -2,7 +2,7 @@ name: Nightly Results
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # каждые сутки в 02:00 UTC
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,26 +28,26 @@ jobs:
           pip install --upgrade pip
           pip install jsonschema
 
-      - name: Seed minimal results
+      - name: Seed minimal results (to $HOME)
         run: |
           python - <<'PY'
           import json, os, pathlib, hashlib, glob, datetime
-          root = pathlib.Path("orion_ai/results")
+          HOME = pathlib.Path(os.environ["HOME"])
+          root = HOME/"orion_ai"/"results"
           (root/"windows").mkdir(parents=True, exist_ok=True)
           (root/"markets").mkdir(parents=True, exist_ok=True)
           (root/"semenko").mkdir(parents=True, exist_ok=True)
           (root/"butusov").mkdir(parents=True, exist_ok=True)
-          # семена
           (root/"semenko/summary.json").write_text(json.dumps({"version":"v1","period":"1950-2050","counts":{"cycles":3},"next":{"date":"2026-01-01"},"overlaps":[]}, indent=2))
           (root/"butusov_summary.json").write_text(json.dumps({"version":"v1","phi_pairs":[["1953-03-01","1985-03-01"]],"epsilon_avg":0.012,"top_matches":[{"k":34,"delta":0.0017}]}, indent=2))
           (root/"windows/gann_windows.csv").write_text("id,start,end,grade,desc\nG1,2026-02-01,2026-02-14,A,Square-of-9 window\n")
           (root/"windows/merriman_windows.csv").write_text("id,start,end,grade,desc\nM1,2026-03-10,2026-03-17,B,Primary reversal window\n")
           (root/"markets/asset_price_BTC.csv").write_text("date,close\n2025-10-20,68000\n2025-10-21,68500\n")
           (root/"markets/event_density_BTC.csv").write_text("date,density\n2025-10-20,0.2\n2025-10-21,0.4\n")
-          # манифест
           arts = [p for p in glob.glob(str(root/'**'/'*.*'), recursive=True)]
           arts = [p for p in arts if not p.endswith(("MANIFEST.json","SHA256SUMS.txt"))]
           def sha256(f):
+              import hashlib
               h=hashlib.sha256()
               with open(f,'rb') as r:
                   for c in iter(lambda:r.read(1<<20),b''): h.update(c)
@@ -56,7 +56,7 @@ jobs:
           (root/"SHA256SUMS.txt").write_text("\n".join(f"{h}  {p}" for p,h in sums)+"\n")
           manifest={"manifest_version":"v1","app":{"name":"ORION","version":"0.3.0"},"built_at":datetime.datetime.utcnow().isoformat()+"Z","artifacts":[{"path":p,"sha256":h} for p,h in sums]}
           (root/"MANIFEST.json").write_text(json.dumps(manifest, indent=2))
-          print("seed ok:", len(sums), "files")
+          print("seed ok:", len(sums), "files at", root)
           PY
 
       - name: Build results zip
