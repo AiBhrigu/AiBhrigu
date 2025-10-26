@@ -14,6 +14,29 @@ from golden_math.butusov_phi import (
 
 app = FastAPI(title="Phi API", version="0.3.0")
 
+from results_api import router as results_router
+app.include_router(results_router, prefix="/api")
+
+from starlette.middleware.base import BaseHTTPMiddleware
+from time import time
+_REQ=0; _ERR=0; _T0=time()
+class _MW(BaseHTTPMiddleware):
+    async def dispatch(self, request, call_next):
+        global _REQ,_ERR
+        _REQ += 1
+        try:
+            resp = await call_next(request)
+            return resp
+        except Exception:
+            _ERR += 1
+            raise
+app.add_middleware(_MW)
+
+@app.get("/metrics")
+def _metrics():
+    import time
+    return {"requests_total": _REQ, "errors_total": _ERR, "uptime_sec": int(time.time()-_T0)}
+
 from fastapi.responses import JSONResponse, FileResponse
 from pathlib import Path
 import subprocess, json
