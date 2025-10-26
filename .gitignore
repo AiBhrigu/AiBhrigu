@@ -1,22 +1,78 @@
-.venv/
+# --- Core ---
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
 *.log
 *.tmp
 *.bak
-AiBhrigu.github.io/
--orion-ai/
+*.swp
+*.swo
+
+# --- Python environment ---
+.venv/
+venv/
+env/
+ENV/
+Pipfile.lock
+poetry.lock
+site-packages/
+
+# --- FastAPI / Uvicorn ---
+*.db
+*.sqlite3
+*.pid
+/tmp/
+*.pem
+*.crt
+*.key
+
+# --- Build & cache ---
+build/
+dist/
+.eggs/
+*.egg-info/
+.cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Node / Vercel / Frontend ---
+node_modules/
+.next/
+out/
+.vercel/
+.vercel_build_output/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# --- IDEs & tools ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.code-workspace
+
+# --- GitHub & CI ---
+.github/*
+!.github/workflows/
+!.github/ISSUE_TEMPLATE/
+!.github/PULL_REQUEST_TEMPLATE/
+
+# --- Local projects (ignored submodules) ---
 AiBhrigu/
 BRI_DAO/
 HDC/
-LLM-Chatbot/
-LLM-Chatbot-2025-09-03-93316572665749/
+LLM-Chatbot*/
 ORION_Validator_Pack/
 astro_patterns/
-bhrigu-future-scenarios/
-bhrigu-governance/
-bhrigu-governance-frontend/
+bhrigu-*/
 bri-dao-icp/
 oracul/
-orion-mini-automation/
-orion_site/
-orion_validator/
+orion-*/
