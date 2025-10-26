@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.log
+*.tmp
+*.bak
+AiBhrigu.github.io/
+-orion-ai/

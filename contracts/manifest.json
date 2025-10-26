@@ -1,0 +1,48 @@
+{
+  "manifest_version": "1.0.0",
+  "app": {
+    "name": "Phi API",
+    "version": "0.3.0"
+  },
+  "build": {
+    "git_commit": "unknown",
+    "git_branch": "unknown",
+    "built_at": "2025-10-26T12:48:57.847419Z",
+    "python": "3.10.12"
+  },
+  "components": {
+    "golden_math": "v1",
+    "phi_api": "0.3.0"
+  },
+  "endpoints": [
+    {
+      "path": "/api/phi/normalize",
+      "method": "GET"
+    },
+    {
+      "path": "/api/phi/encode/{n}",
+      "method": "GET"
+    },
+    {
+      "path": "/api/phi/decode",
+      "method": "GET"
+    },
+    {
+      "path": "/api/phi/encode_batch",
+      "method": "POST"
+    },
+    {
+      "path": "/api/phi/decode_batch",
+      "method": "POST"
+    },
+    {
+      "path": "/meta/manifest",
+      "method": "GET"
+    }
+  ],
+  "integrity": {
+    "sha256": "a9179ee1c480cc1081e1232623ba785717162fca043ef97bf3fe94d6efcbe2d7",
+    "signed": false,
+    "signature_alg": "none"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ORION Manifest v1",
+  "type": "object",
+  "required": ["manifest_version","app","build","components","endpoints","integrity"],
+  "properties": {
+    "manifest_version": { "type": "string" },
+    "app": {
+      "type": "object",
+      "properties": { "name": {"type":"string"}, "version": {"type":"string"} }
+    },
+    "build": {
+      "type": "object",
+      "properties": {
+        "git_commit": {"type":"string"},
+        "git_branch": {"type":"string"},
+        "built_at": {"type":"string"},
+        "python": {"type":"string"}
+      }
+    },
+    "components": { "type": "object" },
+    "endpoints": { "type": "array" },
+    "integrity": { "type": "object" }
+  }
+}
