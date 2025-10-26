@@ -1,0 +1,46 @@
+name: nightly-results
+
+on:
+  schedule:
+    - cron: "7 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Build results-v1.zip
+        run: |
+          python - <<'PY'
+          import os, sys, json, zipfile, hashlib, datetime
+          from pathlib import Path
+          repo = Path.cwd()
+          # В CI ожидаем, что артефакты уже в orion_ai/results, если нет — создаём пустой манифест
+          results = Path.home() / "orion_ai" / "results"
+          results.mkdir(parents=True, exist_ok=True)
+          mf = results / "MANIFEST.json"
+          if not mf.exists():
+            mf.write_text(json.dumps({
+              "manifest_version":"v1","app":{"name":"ORION","version":"0.3.0"},
+              "built_at": datetime.datetime.utcnow().isoformat()+"Z","artifacts":[]
+            }, indent=2))
+          out = repo / "results-v1.zip"
+          with zipfile.ZipFile(out, "w", compression=zipfile.ZIP_DEFLATED) as z:
+            for root,_,files in os.walk(results):
+              for f in files:
+                fp = Path(root)/f
+                z.write(fp, arcname=str(fp.relative_to(results)))
+          h = hashlib.sha256(out.read_bytes()).hexdigest()
+          print(json.dumps({"zip":str(out), "sha256":h, "size":out.stat().st_size}, indent=2))
+          PY
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: results-v1
+          path: results-v1.zip
