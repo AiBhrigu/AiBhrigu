@@ -100,3 +100,7 @@ volumes/
 *.wants/
 *.requires/
 *.journal
+-orion-ai/
+AiBhrigu.github.io/
+orion_site/
+orion_validator/
