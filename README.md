@@ -11,8 +11,7 @@
 ## 🔭 Research
 - **Butusov** — logarithmic symmetry & planetary cycles  
 - **Semenko** — hierarchy of cycles  
-- **Gann & Merriman** — financial astrology  
-- **Sviridov** — astro-trading strategies  
+- **Gann & Merriman** — financial astrology
 
 ---
 
