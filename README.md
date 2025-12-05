@@ -1,37 +1,44 @@
-# 🌌 ORION · BHRIGU AI
-> Astrological AI & Planetary Cycle Framework  
-> Building the **History Machine** 🪐
+# 🜂 AiBhrigu  
+## ORION Engine · Φ-Cosmography · FREY Core
 
-[![CI](https://github.com/AiBhrigu/orion_ai/actions/workflows/ci.yml/badge.svg)](https://github.com/AiBhrigu/orion_ai/actions/workflows/ci.yml)
-[![Governance](https://img.shields.io/badge/Governance-✅-2ea44f?style=flat-square)](https://github.com/AiBhrigu/orion_ai/blob/main/CHECKLIST.md)
-[![Roadmap](https://img.shields.io/badge/Roadmap-GitHub%20Projects-blue?style=flat-square)](https://github.com/users/AiBhrigu/projects/3/views/1?layout=roadmap)
+Создаю архитектуры, которые соединяют небесную механику, циклы рынка и φ-структуры в единую систему.  
+Работаю на стыке эфемерид, фрактальной математики, AI-интеллекта и будущих экономик.
 
----
-
-## 🔭 Research
-- **Butusov** — logarithmic symmetry & planetary cycles  
-- **Semenko** — hierarchy of cycles  
-- **Gann & Merriman** — financial astrology
+### 🔱 Проекты
+- **ORION Engine** — вычислительное ядро (Swiss Ephemeris, φ-алгоритмы, Semenko/Butusov).
+- **Φ-Cosmography** — открытая карта Солнечной системы в золотой геометрии.
+- **FREY Core** — персонализированный φ-интеллект (паспорт человека, соответствия, события).
+- **ORION φ-Scoring Live** — потоковый анализ рынков через φ-симметрию.
 
 ---
 
-## 🛠️ Tech & Tools
-Python · Ephemerides · Swiss Ephemeris · CI/CD · Dependabot · Agents
+## 🜂 Три-слойная модель ORION
+**1. Energy Layer** — планетарные резонансы, периодика, Семенко × Бутусов.  
+**2. Information Layer** — эфемериды, каталоги, кластеризация, φ-метрики.  
+**3. Logic Layer** — AI-агенты, прогнозные модули, визуальные ядра.
 
 ---
 
-## 📊 Focus
-- 📈 Financial cycles  
-- 🌍 Historical patterns  
-- 🤖 AI Agents  
-- 🚀 History Machine  
+## 🌌 Навигация по экосистеме
+- **Core / Engine** → `orion_ai`, `frey_core_lab`, `orion-phi-live`  
+- **Cosmos / Visual** → `phi-cosmography-open`, `orion_showcase` *(coming)*  
+- **Human / Frey** → `frey_api`, `phi-passport`  
+- **Archive** → экспериментальные и исторические версии
 
 ---
 
-## 🗺️ Roadmap
-👉 [Roadmap](https://github.com/users/AiBhrigu/projects/3/views/1?layout=roadmap)  
+## 🜂 Status
+**Building ORION v2 · Helion φ-Core → FREY Engine → Φ-Atlas**
 
 ---
 
-## 🌌 Vision
-*"History doesn’t repeat itself, but it rhymes — our task is to decode the rhythm."*
+## 📡 Links
+- Φ-Cosmography: https://aibhrigu.github.io/phi-cosmography-open/
+- ORION φ-Scoring Live (prod): *(deployment link)*  
+- Contact: *DM via GitHub or project channels*
+
+---
+
+## 🜂 Badges (v1.0)
+![Profile Views](https://komarev.com/ghpvc/?username=Aibhrigu&color=7A5CFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aibhrigu&layout=compact)
