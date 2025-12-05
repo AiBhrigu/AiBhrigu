@@ -1,44 +1,93 @@
-# 🜂 AiBhrigu  
-## ORION Engine · Φ-Cosmography · FREY Core
+<div align="center">
 
-Создаю архитектуры, которые соединяют небесную механику, циклы рынка и φ-структуры в единую систему.  
-Работаю на стыке эфемерид, фрактальной математики, AI-интеллекта и будущих экономик.
+# ORION ENGINE · Φ-COSMOGRAPHY  
+### Scientific Cosmography · Planetary Resonance · Golden Symmetry (φ)
 
-### 🔱 Проекты
-- **ORION Engine** — вычислительное ядро (Swiss Ephemeris, φ-алгоритмы, Semenko/Butusov).
-- **Φ-Cosmography** — открытая карта Солнечной системы в золотой геометрии.
-- **FREY Core** — персонализированный φ-интеллект (паспорт человека, соответствия, события).
-- **ORION φ-Scoring Live** — потоковый анализ рынков через φ-симметрию.
+**AI Architect · Cycle Analyst · Cosmography Systems Designer**
+
+</div>
 
 ---
 
-## 🜂 Три-слойная модель ORION
-**1. Energy Layer** — планетарные резонансы, периодика, Семенко × Бутусов.  
-**2. Information Layer** — эфемериды, каталоги, кластеризация, φ-метрики.  
-**3. Logic Layer** — AI-агенты, прогнозные модули, визуальные ядра.
+# Δ ORION ENGINE — CORE  
+Three-layer architecture:
+
+Energy Layer — Helion (φ-solar dynamics)  
+Information Layer — Φ-Cosmography (maps, spirals, corridors)  
+Logic Layer — Frey-Core (human / financial intelligence)
+
+ORION = the central engine of the system.  
+Everything grows from it.
 
 ---
 
-## 🌌 Навигация по экосистеме
-- **Core / Engine** → `orion_ai`, `frey_core_lab`, `orion-phi-live`  
-- **Cosmos / Visual** → `phi-cosmography-open`, `orion_showcase` *(coming)*  
-- **Human / Frey** → `frey_api`, `phi-passport`  
-- **Archive** → экспериментальные и исторические версии
+# 🜂 Φ-COSMOGRAPHY — VISUAL UNIVERSE  
+Golden symmetry · planetary cycles · resonance maps · X-Prime corridors.
+
+Modules:
+- Helion Orbit & φ-Solar Suite  
+- Φ-Atlas (X-Prime)  
+- Spiral / Torus / Log Geometry  
+- Alignment & Probability Funnels  
+
+🌐 Public site:  
+https://aibhrigu.github.io/phi-cosmography-open/
+
+📦 Repo:  
+https://github.com/AiBhrigu/phi-cosmography
 
 ---
 
-## 🜂 Status
-**Building ORION v2 · Helion φ-Core → FREY Engine → Φ-Atlas**
+# 🜂 FREY — HUMAN & MATERIAL INTELLIGENCE  
+The “matter layer” of ORION:
+
+- φ-passport  
+- human–asset compatibility  
+- financial resonance  
+- event-layer intelligence  
 
 ---
 
-## 📡 Links
-- Φ-Cosmography: https://aibhrigu.github.io/phi-cosmography-open/
-- ORION φ-Scoring Live (prod): *(deployment link)*  
-- Contact: *DM via GitHub or project channels*
+# 🜂 OFFICIAL Φ-PALETTE (v1.0)
+
+15 foundational colors:  
+φ-Gold · Helion Blue · X-Prime Violet · Frey Green · Field Zero + harmonics
+
+Used across: ORION · Cosmography · Frey-Core.
 
 ---
 
-## 🜂 Badges (v1.0)
-![Profile Views](https://komarev.com/ghpvc/?username=Aibhrigu&color=7A5CFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aibhrigu&layout=compact)
+# 🜂 TECH STACK  
+Python · FastAPI · Uvicorn  
+Swiss Ephemeris  
+NumPy · Pandas · AstroPy  
+Plotly · Three.js · WebGL  
+HTML / CSS (Φ-system)  
+GitHub Actions / CI
+
+---
+
+# 🜂 PROJECT MAP  
+
+---
+
+# 🜂 2025 ROADMAP  
+**Q1 — ORION v2 Release**  
+Helion φ-core · Cosmography Stabilization · Atlas X-Prime
+
+**Q2 — Frey Engine**  
+φ-passport · finance compatibility · event matrix
+
+**Q3 — BHRIGU DAO**  
+roles · access · governance
+
+---
+
+# 🜂 STATUS  
+**ACTIVE · Building ORION v2 · Φ-aligned.**
+
+---
+
+# 🜂 CONTACT  
+GitHub: **@AiBhrigu**  
+Projects: ORION · Φ-Cosmography · Frey Core
