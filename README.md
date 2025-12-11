@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AiBhrigu/phi-cosmography-open/main/site/preview/phi_banner_v4.png" width="820"/>
-</p>
-
 <h1 align="center">ORION Φ-Lab</h1>
 <h3 align="center">Computational Cosmography · Resonance Intelligence · Golden-Ratio Architecture</h3>
 
