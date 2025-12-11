@@ -1,0 +1,75 @@
+name: Φ-Profile-Finalize
+
+on:
+  workflow_dispatch:
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Make assets folder
+      run: mkdir -p assets
+
+    - name: Generate Φ banner
+      run: |
+        cat << 'SVG' > assets/phi_banner_gold.svg
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300">
+          <defs>
+            <linearGradient id="phiGold" x1="0%" x2="100%">
+              <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+              <stop offset="50%" stop-color="#D4AF37" stop-opacity="1"/>
+              <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+            </linearGradient>
+          </defs>
+          <rect width="1600" height="300" fill="#000"/>
+          <text x="50%" y="50%" fill="url(#phiGold)" font-size="180"
+                font-family="Georgia" text-anchor="middle"
+                dominant-baseline="middle">Φ</text>
+        </svg>
+        SVG
+
+    - name: Write README
+      run: |
+        cat << 'MD' > README.md
+        # 🜂 Φ-COSMOGRAPHY / ORION ENGINE
+
+        <p align="center">
+          <img src="assets/phi_banner_gold.svg" width="100%"/>
+        </p>
+
+        ## ORION ENGINE
+        Golden-ratio mechanics, resonance systems, cycle intelligence.
+
+        ## Φ-COSMOGRAPHY
+        Mapping fractal structures, λ=1.889 geometry, orbital harmonics.
+
+        ## FREY
+        Semantic resonance for Human × AI alignment.
+
+        ---
+
+        ## Active Projects
+        | Project | Status |
+        |---------|--------|
+        | ORION Engine v2 | Stable |
+        | Φ-Cosmography OpenSite | Active |
+        | X₄-SEED Line | Active |
+        | Frey v0.3 | Stable |
+        | Machine of History | Building |
+
+        ---
+
+        **Φ-Cosmography & ORION Engine — research, architecture, development.**
+        MD
+
+    - name: Commit & Push
+      run: |
+        git config user.name "ORION-Auto"
+        git config user.email "auto@orion.engine"
+        git add README.md assets/phi_banner_gold.svg
+        git commit -m "Finalize profile update"
+        git push
