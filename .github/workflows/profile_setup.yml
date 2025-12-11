@@ -1,29 +1,86 @@
-name: Φ-Profile-AutoSetup
+name: Φ-Profile-Finalize
 
 on:
   workflow_dispatch:
 
 jobs:
-  setup:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
+    - name: Checkout repo
       uses: actions/checkout@v4
 
-    - name: Prepare assets directory
+    - name: Make assets folder
       run: mkdir -p assets
 
-    - name: Create Φ Banner
+    - name: Upload φ-banner
       run: |
         cat << 'SVG' > assets/phi_banner_gold.svg
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" width="100%" height="100%">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300">
           <defs>
-            <linearGradient id="phiGold" x1="0%" x2="100%" y1="0%" y2="0%">
-              <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+            <linearGradient id="phiG" x1="0%" x2="100%">
+              <stop offset="0%" stop-color="#000" stop-opacity="0"/>
               <stop offset="50%" stop-color="#D4AF37" stop-opacity="1"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+              <stop offset="100%" stop-color="#000" stop-opacity="0"/>
             </linearGradient>
           </defs>
           <rect width="1600" height="300" fill="#000000"/>
-          <tex
+          <text x="50%" y="50%" font-family="Georgia, serif" font-size="180"
+                fill="url(#phiG)" text-anchor="middle" dominant-baseline="middle">Φ</text>
+          <rect y="230" width="1600" height="2" fill="url(#phiG)"/>
+        </svg>
+        SVG
+
+    - name: Write final README
+      run: |
+        cat << 'MD' > README.md
+        # 🜂 Φ-COSMOGRAPHY / ORION ENGINE
+
+        ### Golden-Ratio Space Mapping • Resonance Systems • Cycle Intelligence  
+        Fractal Research • Astronomical Mechanics • λ=1.889 Geometry
+
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/AiBhrigu/AiBhrigu/main/assets/phi_banner_gold.svg" width="100%"/>
+        </p>
+
+        ## ORION ENGINE
+        Research engine built on resonance systems, φ-structures, cycle intelligence and cosmography.
+
+        ## Φ-COSMOGRAPHY
+        Golden-ratio based mapping of space structures, spirals, corridors, field topologies.
+
+        ## FREY
+        Human × AI resonance layer for semantic alignment and interaction.
+
+        ---
+
+        ## Technology Stack
+        Python • FastAPI • Node • TS • SVG visual cores • Plotly • CI/CD • GitHub Actions
+
+        ---
+
+        ## Active Projects
+        | Project | Status |
+        |---------|--------|
+        | ORION Engine v2 | Stable |
+        | Φ-Cosmography OpenSite v2 | Active |
+        | X₄-SEED Research Line | Active |
+        | Frey v0.3 | Stable |
+        | Machine of History | Upcoming |
+
+        ---
+
+        ## Signature
+        **Φ-Cosmography & ORION Engine — research, architecture, development.**
+        No proprietary or patent-sensitive methods are disclosed.
+        MD
+
+    - name: Commit & Push
+      run: |
+        git config user.name "ORION-Auto"
+        git config user.email "auto@orion.engine"
+        git add README.md assets/phi_banner_gold.svg
+        git commit -m "Finalize profile — banner + README"
+        git push
+
