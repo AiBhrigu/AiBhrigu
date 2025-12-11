@@ -1,0 +1,130 @@
+name: Φ-Profile-AutoSetup
+
+on:
+  workflow_dispatch:
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Profile Repo
+      uses: actions/checkout@v4
+
+    - name: Prepare assets directory
+      run: mkdir -p assets
+
+    - name: Create Φ Banner
+      run: |
+        cat << 'SVG' > assets/phi_banner_gold.svg
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" width="100%" height="100%">
+          <defs>
+            <linearGradient id="phiGold" x1="0%" x2="100%" y1="0%" y2="0%">
+              <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+              <stop offset="50%" stop-color="#D4AF37" stop-opacity="1"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+            </linearGradient>
+          </defs>
+          <rect width="1600" height="300" fill="#000000"/>
+          <text x="50%" y="50%" font-family="Georgia, serif" font-size="180"
+                fill="url(#phiGold)" text-anchor="middle" dominant-baseline="middle">Φ</text>
+          <rect x="0" y="230" width="1600" height="2" fill="url(#phiGold)" />
+        </svg>
+        SVG
+
+    - name: Create README
+      run: |
+        cat << 'MD' > README.md
+        # 🜂 **Φ-COSMOGRAPHY / ORION ENGINE**
+        ### Golden-Ratio Space Mapping • Resonance Systems • Cycle Intelligence  
+        Fractal Research • Astronomical Mechanics • λ=1.889 Geometry
+
+        ---
+
+        ## 🜂 ORION ENGINE — Core Intelligence
+        A conceptual framework built around astronomical data, resonance-based cycle research, and φ-structured cosmographic models.
+
+        **Domains**  
+        - High-precision ephemeris data (Swiss Ephemeris, DE440/441)  
+        - Classical & modern cycle analysis traditions  
+        - Conceptual φ-kernel architecture  
+        - Resonance-driven field models  
+        - Exploratory cycle hierarchy studies  
+        - Event/cycle relationship research  
+        - Macro-pattern diagnostic reports  
+
+        **Operations**  
+        - Automated data pipelines  
+        - Periodic reporting (JSON → HTML → PNG)  
+        - Stability monitoring & validation layers  
+        - Modular research environment (API + static portal)
+
+        ---
+
+        ## 🜂 Φ-COSMOGRAPHY — Golden-Ratio Space Mapping
+        A research-grade cosmographic model inspired by φ-geometry, resonance fields, and spiral-based structural patterns.
+
+        **Conceptual Layers**  
+        - Φ-SunCore  
+        - Galactic Dome visual model  
+        - Spiral Axis / Transition / Layer mapping  
+        - Helion φ-Sphere  
+        - φ-Waves & φ-Rays  
+        - Möbius Corridor  
+        - X-Corridor (λ-drift representation)  
+        - Φ-Atlas visual structures  
+        - Performance/structure inspection tools  
+
+        This section reflects a **visual and structural design philosophy**, not internal algorithms.
+
+        ---
+
+        ## 🜂 FREY — Human × AI Resonance Layer
+        A semantic-alignment interaction system designed to interface with research outputs.
+
+        **Modules**  
+        - Φ-Passport  
+        - Match-User-Asset  
+        - EventLog  
+        - Voice Engine  
+        - Safe-Core Edition  
+        - PPP-Agent (conceptual prototype)
+
+        All components operate strictly as **interaction layers**, not analytical engines.
+
+        ---
+
+        ## 🜂 Technology Stack
+        Astronomy • φ-geometry • resonance concepts • Python • FastAPI • Node/TS • Vite/Tailwind • Plotly • GitHub Actions
+
+        ---
+
+        ## 🜂 Active Projects
+        | Project | Status | Description |
+        |--------|--------|-------------|
+        | **ORION Engine v2** | Stable | φ-integrated conceptual engine |
+        | **Φ-Cosmography OpenSite v2** | Active | cosmographic visual models |
+        | **X₄-SEED Research Line** | Active | λ-based exploratory clustering |
+        | **Frey v0.3** | Stable | semantic resonance interaction layer |
+        | **Machine of History** | Upcoming | event–cycle relational research |
+
+        ---
+
+        ## 🜂 Signature
+        **Φ-Cosmography & ORION Engine — research, architecture, development.**  
+        No proprietary algorithms or patent-sensitive methods are disclosed.
+
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/AiBhrigu/AiBhrigu/main/assets/phi_banner_gold.svg" width="100%" />
+        </p>
+
+        <div style="width:100%;height:2px;background:linear-gradient(90deg,transparent,#d4af37,transparent);margin:24px 0;"></div>
+        MD
+
+    - name: Commit and Push
+      run: |
+        git config user.name "ORION-Auto"
+        git config user.email "auto@orion.engine"
+        git add .
+        git commit -m "Φ-Profile: automated full setup"
+        git push
