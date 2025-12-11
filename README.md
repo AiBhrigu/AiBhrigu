@@ -1,52 +1,66 @@
-# 🌌 **ORION Φ-Lab**
-### Cosmography · Resonance Intelligence · Golden-Ratio Architecture
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AiBhrigu/phi-cosmography-open/main/site/preview/phi_banner_v4.png" width="820" />
+  <img src="https://raw.githubusercontent.com/AiBhrigu/phi-cosmography-open/main/site/preview/phi_banner_v4.png" width="820"/>
 </p>
 
----
-
-## **ORION ENGINE**
-Golden-ratio computational system built on three layers:
-
-- **Helion — Energy Layer**  
-  φ-vectors · orbital harmonics · solar resonance
-
-- **Φ-Cosmography — Information Layer**  
-  spiral maps · X-Prime corridors · fractal geometry
-
-- **Frey — Logic Layer**  
-  temporal reasoning · human cycles · material intelligence
+<h1 align="center">ORION Φ-Lab</h1>
+<h3 align="center">Computational Cosmography · Resonance Intelligence · Golden-Ratio Architecture</h3>
 
 ---
 
-## **Φ-COSMOGRAPHY**
-Fractal cosmographic environment mapping deep-space resonance patterns.
+## ORION ENGINE
+A unified φ-computational system built on three foundational layers:
 
-🔭 **Live Visuals**  
+### Helion — Energy Layer  
+Solar φ-dynamics · orbital resonance · harmonic fields
+
+### Φ-Cosmography — Information Layer  
+spiral geometry · X-Prime corridors · resonance topology · fractal maps
+
+### Frey — Logic Layer  
+temporal intelligence · human/material cycles · structural reasoning
+
+**ORION = the φ-engine.** Every subsystem emerges from this core.
+
+---
+
+## Φ-COSMOGRAPHY  
+Scientific cosmography environment mapping deep-space resonance structures.
+
+- Helion φ-core  
+- X-Prime Atlas (fractal planetary topology)  
+- φ-maps · alignment funnels · probability fields  
+- Golden-ratio visual architecture
+
+🔭 Live Cosmography  
 https://aibhrigu.github.io/phi-cosmography-open/
 
-📦 **Repository**  
+📦 Repository  
 https://github.com/AiBhrigu/phi-cosmography-open
 
 ---
 
-## **FREY ENGINE**
-AI logic system for human × material structures:  
-φ-passport · compatibility scoring · resonance-matrix modeling.
+## FREY ENGINE  
+Logic architecture for human–material intelligence.
+
+- φ-passport (structural signature)  
+- compatibility scoring  
+- resonance logic  
+- event-matrix intelligence
 
 ---
 
-## **Φ-PALETTE**
-`#05060A` · `#C6A86B` · `#4AA3FF` · `#7A5CFF` · `#7DFFCA`
+## Φ-PALETTE  
+`#05060A` void · `#C6A86B` φ-gold · `#4AA3FF` helion · `#7A5CFF` X-Prime · `#7DFFCA` frey
 
 ---
 
-## **STATUS**
-**Building ORION v2 — Helion-aligned.**
+## TECHNOLOGIES  
+Python · FastAPI · Swiss Ephemeris  
+NumPy · Pandas · AstroPy  
+Three.js · WebGL · Plotly  
+GitHub Actions · CI/CD  
+Φ-Design System
 
 ---
 
-## **CONTACT**
-**GitHub:** @AiBhrigu
+## SYSTEM MAP
