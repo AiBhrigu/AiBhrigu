@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
+    - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Ensure assets folder
+    - name: Ensure assets directory
       run: mkdir -p assets
 
     - name: Generate Φ Banner
@@ -30,12 +30,12 @@ jobs:
           </defs>
           <rect width="1600" height="300" fill="#000"/>
           <text x="50%" y="50%" fill="url(#phiGold)" font-size="180"
-                font-family="Georgia" text-anchor="middle"
+                font-family="Georgia, serif" text-anchor="middle"
                 dominant-baseline="middle">Φ</text>
         </svg>
         SVG
 
-    - name: Apply README Φ-Lab Manifest
+    - name: Apply README Φ-Lab Manifest (English v1.2)
       run: |
         cat << 'MD' > README.md
         # 🜂 Φ-COSMOGRAPHY / ORION ENGINE  
@@ -48,73 +48,72 @@ jobs:
 
         ---
 
-        # ORION ENGINE
-        The ORION Engine is a multi-layer cosmographic framework built on:
+        # ORION ENGINE  
+        The **ORION Engine** is a next-generation cosmographic framework that unifies geometry, cycles, and resonance into a single analytical system.
 
-        - resonance mechanics  
-        - φ-structured geometry  
-        - cycle intelligence  
-        - harmonic field mapping  
-        - multi-scale orbital analysis  
+        ORION establishes:
+        - φ-structured data architecture  
+        - multi-layer resonance fields  
+        - dynamic celestial mapping  
+        - cycle-driven interpretive logic  
 
-        This system forms the **Φ-Core Layer**, the analytical heart of ORION’s architecture.
+        This forms the **Φ-Core Layer**, the analytical heart of ORION.
 
         ---
 
-        # Φ-COSMOGRAPHY
-        Φ-Cosmography explores:
+        # Φ-COSMOGRAPHY  
+        Φ-Cosmography explores how space is organized through harmonic proportions:
 
         - golden-ratio spatial structures  
         - λ = 1.889 orbital harmonics  
-        - fractal field topologies  
-        - cosmographic transitions and layers  
+        - fractal topologies and multi-scale layers  
         - geometric signatures of celestial motion  
+        - harmonic transitions across cosmographic fields  
 
-        The framework describes space not as a static map, but as **a dynamic fractal field shaped by harmonic ratios**.
+        Space is described not as a static map, but as **a living fractal field shaped by resonance**.
 
         ---
 
-        # FREY — Human × AI Resonance Layer
-        Frey builds semantic alignment between a human operator and the Φ-Core.
+        # FREY — Human × AI Resonance Layer  
+        **Frey** enables semantic and cognitive resonance between a human operator and the Φ-Core.
 
-        It operates on:
-
-        - resonance patterns  
+        Frey operates across:
         - symbolic trajectories  
-        - meaning-field synchronisation  
+        - resonance-based meaning formation  
+        - intention alignment  
         - φ-guided interaction flow  
 
-        Frey is the communication layer between human intention and the ORION machine core.
+        Frey is the communication layer that harmonizes human intent with ORION’s analytical engine.
 
         ---
 
-        # X₄-SEED — Deep-Space Harmonic Research Line
-        The X₄-Seed program focuses on:
+        # X₄-SEED — Deep-Space Harmonic Line  
+        The **X₄-Seed Program** studies the deep outer regions of the Solar System.
 
-        - outer-system resonance structures  
-        - harmonic clusters  
-        - deep-space φ-fields  
-        - structural signatures of distant orbital bodies  
+        Focus areas:
+        - harmonic clusters beyond Neptune  
+        - φ-density field signatures  
+        - orbital resonance structures  
+        - long-distance celestial topology  
 
-        This research line provides the foundation for the next generations of cosmographic engines.
+        This research line establishes the foundation for future cosmographic engines.
 
         ---
 
-        # MACHINE OF HISTORY
+        # MACHINE OF HISTORY  
         A long-timeline analytical system based on:
         - φ-cycles  
-        - resonance events  
-        - epoch structures  
-        - historical harmonics  
+        - epochal resonance structures  
+        - historical harmonic layers  
+        - long-term event geometry  
 
-        The system remains under active development.
+        This module remains under active development.
 
         ---
 
         # ACTIVE PROJECTS
-
         | Project | Status |
-        |--------|--------|
+        |--------|---------|
         | **ORION Engine v2** | Stable |
         | **Φ-Cosmography OpenSite v2** | Active |
         | **X₄-SEED Research Line** | Active |
@@ -123,22 +122,33 @@ jobs:
 
         ---
 
-        # TECHNOLOGY STACK
+        # TECHNOLOGY STACK  
         Python • FastAPI • TypeScript • Node  
-        SVG/Canvas render systems • GitHub Actions CI • Scientific tooling  
-        Custom φ-geometry and cosmographic layers (non-disclosed)
+        SVG/Canvas render systems • Scientific toolchain  
+        GitHub Actions CI/CD • Multi-layer Φ-geometry pipelines  
+
+        **All proprietary and patent-sensitive algorithms remain undisclosed.**
 
         ---
 
-        # SIGNATURE
+        # Φ-PRINCIPLES  
+        - Space is a fractal structure.  
+        - Cycles are the form of motion.  
+        - Resonance is the form of connection.  
+        - Φ is the measure of harmony.  
+        - ORION is the engine for reading this structure.
+
+        ---
+
+        # SIGNATURE  
         **Φ-Cosmography & ORION Engine — research, architecture, development.**  
-        *No proprietary, algorithmic, or patent-sensitive methods are disclosed.*
+        *No proprietary or patent-sensitive methods are disclosed.*
         MD
 
-    - name: Commit & Push
+    - name: Commit & Push updates
       run: |
         git config user.name "ORION-Auto"
         git config user.email "auto@orion.engine"
         git add -A
-        git commit -m "Φ-Profile Applied — ORION Lab Manifest" || echo "No changes to commit"
+        git commit -m "Φ-Profile Applied — English v1.2" || echo "No changes to commit"
         git push
