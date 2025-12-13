@@ -1,6 +1,6 @@
-# 🜂 Φ-COSMOGRAPHY / ORION ENGINE  
+# 🜂 ORION ENGINE • Φ-COSMOGRAPHY LAB  
 ### Golden-Ratio Mechanics • Resonance Systems • Cosmographic Intelligence  
-λ = 1.889 • Φ-Core Layer • Cycle Architecture
+λ = 1.889 • Φ-Core Architecture • Multi-Layer Harmonic Systems
 
 <p align="center">
   <img src="assets/phi_banner_gold.svg" width="100%">
@@ -8,98 +8,126 @@
 
 ---
 
-# ORION ENGINE  
-The **ORION Engine** is a next-generation cosmographic framework that unifies geometry, cycles, and resonance into a single analytical system.
+## ORION ENGINE — Φ-Core Analytical Layer  
+The **ORION Engine** unifies geometry, cycles, and resonance into a coherent analytical system.
 
 ORION establishes:
-- φ-structured data architecture  
-- multi-layer resonance fields  
-- dynamic celestial mapping  
-- cycle-driven interpretive logic  
+- φ-structured multi-layer architecture  
+- resonance field computation  
+- fractal spatial and temporal models  
+- cycle-driven analytical logic  
+- cosmographic layer transitions  
 
-This forms the **Φ-Core Layer**, the analytical heart of ORION.
+ORION functions as a **core research engine** for harmonic and cosmographic analysis.
 
 ---
 
-# Φ-COSMOGRAPHY  
-Φ-Cosmography explores how space is organized through harmonic proportions:
+## Φ-COSMOGRAPHY  
+A scientific mapping framework describing space as a **dynamic fractal resonance field**.
 
+Focus domains:
 - golden-ratio spatial structures  
 - λ = 1.889 orbital harmonics  
-- fractal topologies and multi-scale layers  
-- geometric signatures of celestial motion  
-- harmonic transitions across cosmographic fields  
+- multi-scale cosmographic layers  
+- harmonic field transitions  
+- resonance-based orbital signatures  
 
-Space is described not as a static map, but as **a living fractal field shaped by resonance**.
-
----
-
-# FREY — Human × AI Resonance Layer  
-**Frey** enables semantic and cognitive resonance between a human operator and the Φ-Core.
-
-Frey operates across:
-- symbolic trajectories  
-- resonance-based meaning formation  
-- intention alignment  
-- φ-guided interaction flow  
-
-Frey is the communication layer that harmonizes human intent with ORION’s analytical engine.
+Φ-Cosmography provides the structural logic behind the visual and analytical layers of the ecosystem.
 
 ---
 
-# X₄-SEED — Deep-Space Harmonic Line  
-The **X₄-Seed Program** studies the deep outer regions of the Solar System.
+## FREY — Human × AI Resonance Interface  
+**Frey** forms a semantic and cognitive bridge between a human operator and the Φ-Core.
 
-Focus areas:
-- harmonic clusters beyond Neptune  
-- φ-density field signatures  
-- orbital resonance structures  
-- long-distance celestial topology  
+Capabilities:
+- resonance-aligned semantic mapping  
+- symbolic trajectory interpretation  
+- intention-field alignment  
+- φ-guided cognitive flow  
 
-This research line establishes the foundation for future cosmographic engines.
+Frey enables high-clarity interaction with complex analytical systems.
 
 ---
 
-# MACHINE OF HISTORY  
-A long-timeline analytical system based on:
+## X₄-SEED — Deep-Space Harmonic Line  
+A research program exploring resonance structures in the outer Solar System.
+
+Areas of study:
+- φ-density clusters beyond Neptune  
+- long-distance orbital topology  
+- deep harmonic signatures  
+- macro-scale cosmographic structures  
+
+X₄-SEED informs the next generation of ORION frameworks.
+
+---
+
+## MACHINE OF HISTORY  
+A long-timescale analytical system integrating:
 - φ-cycles  
-- epochal resonance structures  
+- epochal resonance signatures  
 - historical harmonic layers  
-- long-term event geometry  
+- cycle-pattern temporal geometry  
 
-This module remains under active development.
+This module continues under active development.
 
 ---
 
-# ACTIVE PROJECTS
+## PUBLIC PORTAL  
+The public-facing cosmography portal powered by ORION and Φ-Cosmography:
+
+**https://www.bhrigu.io**
+
+It presents:
+- golden-ratio cosmographic layers  
+- resonance-derived structures  
+- φ-geometry visualizations  
+- live cosmographic sections powered by the ORION Engine  
+
+No proprietary algorithms from internal pipelines are exposed on the public portal.
+
+---
+
+## ECOSYSTEM STRUCTURE (HIGH-LEVEL)
+
+- **ORION Engine** — analytical φ-core  
+- **Φ-Cosmography** — spatial and structural mapping  
+- **X₄-SEED** — deep-space harmonic research  
+- **Frey** — human × AI resonance interface  
+- **Bhrigu Portal** — public visualization layer built on ORION/Φ-Cosmography  
+
+---
+
+## ACTIVE PROJECTS
 | Project | Status |
-|--------|---------|
+|--------|--------|
 | **ORION Engine v2** | Stable |
 | **Φ-Cosmography OpenSite v2** | Active |
 | **X₄-SEED Research Line** | Active |
 | **Frey v0.3** | Stable |
 | **Machine of History** | In Progress |
+| **Bhrigu Cosmography Portal** | Live |
 
 ---
 
-# TECHNOLOGY STACK  
+## TECHNOLOGY STACK  
 Python • FastAPI • TypeScript • Node  
-SVG/Canvas render systems • Scientific toolchain  
-GitHub Actions CI/CD • Multi-layer Φ-geometry pipelines  
+Scientific toolchain • SVG/Canvas render systems  
+GitHub Actions CI/CD • Multi-layer φ-geometry pipelines  
 
 **All proprietary and patent-sensitive algorithms remain undisclosed.**
 
 ---
 
-# Φ-PRINCIPLES  
-- Space is a fractal structure.  
-- Cycles are the form of motion.  
-- Resonance is the form of connection.  
-- Φ is the measure of harmony.  
-- ORION is the engine for reading this structure.
+## Φ-PRINCIPLES  
+**1. Space is a fractal structure.**  
+**2. Cycles are the form of motion.**  
+**3. Resonance is the form of connection.**  
+**4. Φ is the measure of harmony.**  
+**5. ORION is the engine that reads this structure.**
 
 ---
 
-# SIGNATURE  
-**Φ-Cosmography & ORION Engine — research, architecture, development.**  
+## SIGNATURE  
+Φ-Cosmography & ORION Engine — research, architecture, development.  
 *No proprietary or patent-sensitive methods are disclosed.*
