@@ -1,10 +1,10 @@
+## AiBhrigu is the public research-system mirror of the BHRIGU / ORION ecosystem.
+
 <p align="center">
   <img src="assets/phi_banner_gold.svg" width="100%">
 </p>
 
 ---
-
-## AiBhrigu is the public research-system mirror of the BHRIGU / ORION ecosystem.
 
 This organization exposes selected portal, interface, canon, and open research layers while keeping private infrastructure, internal engine pathways, and patent-sensitive mechanics outside the public boundary.
 
