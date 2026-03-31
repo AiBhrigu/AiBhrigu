@@ -1,4 +1,4 @@
-## AiBhrigu is the public research-system mirror of the BHRIGU / ORION ecosystem.
+## Bridge, interface, canon, and selected open research layers for the BHRIGU / ORION ecosystem.
 
 <p align="center">
   <img src="assets/aibhrigu_systems_banner.png" width="100%" alt="AiBhrigu Systems Banner">
