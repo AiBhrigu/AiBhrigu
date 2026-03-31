@@ -1,6 +1,4 @@
-# 🜂 ORION ENGINE • Φ-COSMOGRAPHY LAB  
-### Golden-Ratio Mechanics • Resonance Systems • Cosmographic Intelligence  
-λ = 1.889 • Φ-Core Architecture • Multi-Layer Harmonic Systems
+# AiBhrigu
 
 <p align="center">
   <img src="assets/phi_banner_gold.svg" width="100%">
@@ -8,126 +6,76 @@
 
 ---
 
-## ORION ENGINE — Φ-Core Analytical Layer  
-The **ORION Engine** unifies geometry, cycles, and resonance into a coherent analytical system.
+## Public Research-System Mirror for BHRIGU / ORION
 
-ORION establishes:
-- φ-structured multi-layer architecture  
-- resonance field computation  
-- fractal spatial and temporal models  
-- cycle-driven analytical logic  
-- cosmographic layer transitions  
+AiBhrigu is the public research-system mirror of the BHRIGU / ORION ecosystem.
 
-ORION functions as a **core research engine** for harmonic and cosmographic analysis.
+This organization exposes selected portal, interface, canon, and open research layers while keeping private infrastructure, internal engine pathways, and patent-sensitive mechanics outside the public boundary.
 
 ---
 
-## Φ-COSMOGRAPHY  
-A scientific mapping framework describing space as a **dynamic fractal resonance field**.
+## Relation Map
 
-Focus domains:
-- golden-ratio spatial structures  
-- λ = 1.889 orbital harmonics  
-- multi-scale cosmographic layers  
-- harmonic field transitions  
-- resonance-based orbital signatures  
+* **BHRIGU** — public bridge / trusted boundary surface
+* **Frey** — interface ray
+* **Cosmography** — method-language field
+* **ORION** — analytical depth
 
-Φ-Cosmography provides the structural logic behind the visual and analytical layers of the ecosystem.
-
----
-
-## FREY — Human × AI Resonance Interface  
-**Frey** forms a semantic and cognitive bridge between a human operator and the Φ-Core.
-
-Capabilities:
-- resonance-aligned semantic mapping  
-- symbolic trajectory interpretation  
-- intention-field alignment  
-- φ-guided cognitive flow  
-
-Frey enables high-clarity interaction with complex analytical systems.
+BHRIGU is not the engine itself.
+ORION is not the public portal.
+Frey is not the whole system.
+Cosmography is the method-language that structures the visible and analytical layers.
 
 ---
 
-## X₄-SEED — Deep-Space Harmonic Line  
-A research program exploring resonance structures in the outer Solar System.
+## Public Boundary
 
-Areas of study:
-- φ-density clusters beyond Neptune  
-- long-distance orbital topology  
-- deep harmonic signatures  
-- macro-scale cosmographic structures  
+This GitHub organization is a curated public layer.
 
-X₄-SEED informs the next generation of ORION frameworks.
+It is designed to expose selected system structure, interface logic, canon, and controlled research visibility without revealing the full internal analytical stack.
+
+Core implementation pathways, private infrastructure, and patent-sensitive mechanics remain outside the public boundary.
 
 ---
 
-## MACHINE OF HISTORY  
-A long-timescale analytical system integrating:
-- φ-cycles  
-- epochal resonance signatures  
-- historical harmonic layers  
-- cycle-pattern temporal geometry  
+## Curated Public Layers
 
-This module continues under active development.
+### Portal
 
----
+**bhrigu-portal** — public bridge and portal surface for BHRIGU.
 
-## PUBLIC PORTAL  
-The public-facing cosmography portal powered by ORION and Φ-Cosmography:
+### Interface
 
-**https://www.bhrigu.io**
+**frey-core-safe** — controlled interface-layer repository for Frey.
 
-It presents:
-- golden-ratio cosmographic layers  
-- resonance-derived structures  
-- φ-geometry visualizations  
-- live cosmographic sections powered by the ORION Engine  
+### Canon
 
-No proprietary algorithms from internal pipelines are exposed on the public portal.
+**phi-cosmography-canon** — canonical doctrine, structural invariants, and method layer.
+
+### Open Research
+
+**phi-cosmography-open** — open public atlas and selected research-facing window.
 
 ---
 
-## ECOSYSTEM STRUCTURE (HIGH-LEVEL)
+## Reading Logic
 
-- **ORION Engine** — analytical φ-core  
-- **Φ-Cosmography** — spatial and structural mapping  
-- **X₄-SEED** — deep-space harmonic research  
-- **Frey** — human × AI resonance interface  
-- **Bhrigu Portal** — public visualization layer built on ORION/Φ-Cosmography  
+The public page should read in this order:
 
----
-
-## ACTIVE PROJECTS
-| Project | Status |
-|--------|--------|
-| **ORION Engine v2** | Stable |
-| **Φ-Cosmography OpenSite v2** | Active |
-| **X₄-SEED Research Line** | Active |
-| **Frey v0.3** | Stable |
-| **Machine of History** | In Progress |
-| **Bhrigu Cosmography Portal** | Live |
+1. **BHRIGU** — bridge
+2. **Frey** — interface
+3. **Cosmography** — canon
+4. **ORION** — depth
 
 ---
 
-## TECHNOLOGY STACK  
-Python • FastAPI • TypeScript • Node  
-Scientific toolchain • SVG/Canvas render systems  
-GitHub Actions CI/CD • Multi-layer φ-geometry pipelines  
+## Boundary Reinforcement
 
-**All proprietary and patent-sensitive algorithms remain undisclosed.**
+Public repositories in this organization are exposed selectively.
 
----
+They show system structure, interface logic, canon, and controlled research visibility — not the complete internal engine, private operational infrastructure, or proprietary analytical mechanics.
 
-## Φ-PRINCIPLES  
-**1. Space is a fractal structure.**  
-**2. Cycles are the form of motion.**  
-**3. Resonance is the form of connection.**  
-**4. Φ is the measure of harmony.**  
-**5. ORION is the engine that reads this structure.**
+The public portal is not the full engine surface.
+Public repositories are not the complete internal system.
+Private infrastructure and patent-sensitive mechanics remain outside the public boundary.
 
----
-
-## SIGNATURE  
-Φ-Cosmography & ORION Engine — research, architecture, development.  
-*No proprietary or patent-sensitive methods are disclosed.*
