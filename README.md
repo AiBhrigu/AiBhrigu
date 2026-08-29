@@ -1,7 +1,7 @@
 ## Research systems, selected public proof, and public surfaces
 
 <p align="center">
-  <img src="assets/aibhrigu_systems_banner_v2_2.svg" width="100%" alt="Phi Research Systems — deterministic Phi-centered systems banner">
+  <img src="assets/phi_research_systems_banner_v2_3.svg" width="100%" alt="Phi Research Systems — deterministic Phi-centered systems banner">
 </p>
 
 This GitHub profile is the public development-and-research home for selected systems, repositories, evidence, and public surfaces.
@@ -9,7 +9,7 @@ This GitHub profile is the public development-and-research home for selected sys
 It exposes public-safe structure and achieved proof while keeping private infrastructure, internal engine pathways, unpublished research, and patent-sensitive mechanics outside the public boundary.
 
 <p align="center">
-  <img src="assets/aibhrigu_research_systems_map_v2_1.svg" width="100%" alt="Research Systems Map — color-semantic fact-locked development, public outputs, protected research, and 2026 milestones">
+  <img src="assets/research_systems_map_v2_3.svg" width="100%" alt="Research Systems Map — color-semantic fact-locked development, public outputs, protected research, and 2026 milestones">
 </p>
 
 **Visual key:** cyan = public / method · blue = analytical / evidence · periwinkle = protected research · violet = achieved milestone.
