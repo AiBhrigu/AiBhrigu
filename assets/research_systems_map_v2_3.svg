@@ -108,7 +108,7 @@
   </g>
 
   <rect x="28" y="744" width="1544" height="348" rx="18" fill="url(#milestonePanel)" stroke="#7c6ac7" stroke-width="2"/>
-  <rect x="28" y="744" width="1544" height="8" rx="4" fill="#a371f7"/>
+  <line x1="52" y1="764" x2="1548" y2="764" stroke="#a371f7" stroke-width="3" stroke-linecap="round"/>
   <text x="50" y="790" fill="#c9a7ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SELECTED 2026 MILESTONES</text>
   <text x="50" y="814" fill="#a79db8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Achieved states only · no roadmap implied</text>
 
