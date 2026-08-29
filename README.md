@@ -9,12 +9,14 @@ This GitHub profile is the public development-and-research home for selected AiB
 It exposes public-safe structure and achieved proof while keeping private infrastructure, internal engine pathways, unpublished research, and patent-sensitive mechanics outside the public boundary.
 
 <p align="center">
-  <img src="assets/aibhrigu_research_systems_map_v2.svg" width="100%" alt="AiBhrigu Research Systems — fact-locked development, public outputs, and 2026 milestones">
+  <img src="assets/aibhrigu_research_systems_map_v2_1.svg" width="100%" alt="AiBhrigu Research Systems — color-semantic fact-locked development, public outputs, protected research, and 2026 milestones">
 </p>
+
+**Visual key:** cyan = public / method · blue = analytical / evidence · periwinkle = protected research · violet = achieved milestone.
 
 ---
 
-## Development & Research
+## 🟦 Development & Research
 
 * **ORION** — protected analytical depth.
 * **Frey** — temporal reading and dialogue method.
@@ -28,7 +30,7 @@ These names describe existing development and research lines at a public-safe le
 
 ---
 
-## Selected 2026 Milestones
+## 🟪 Selected 2026 Milestones
 
 * **BTC Cosmographer** — first proven public Bitcoin corridor for evidence-linked Bitcoin intelligence.
 * **Market Cosmographer** — current primary public product frame on BHRIGU.
@@ -39,7 +41,7 @@ These milestones describe achieved states only. They do not imply a future roadm
 
 ---
 
-## BHRIGU Public Surface Map
+## 🟩 BHRIGU Public Surface Map
 
 Within BHRIGU's public surface:
 
@@ -57,7 +59,7 @@ BHRIGU is one public product and research surface within the broader development
 
 ---
 
-## Public Boundary
+## 🛡️ Public Boundary
 
 This GitHub profile is a curated public layer.
 
@@ -67,7 +69,7 @@ Core implementation pathways, private infrastructure, unpublished research, and 
 
 ---
 
-## Selected Public Repositories
+## 📦 Selected Public Repositories
 
 ### Portal
 
@@ -89,7 +91,7 @@ Core implementation pathways, private infrastructure, unpublished research, and 
 
 **bitcoin-evidence-commons** — standalone public Bitcoin evidence toolkit and dataset; the existing v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
 
-## BHRIGU Public Surfaces
+## 🟩 BHRIGU Public Surfaces
 
 **Reading** — public temporal reading surface linked to Frey.
 
@@ -97,7 +99,7 @@ Core implementation pathways, private infrastructure, unpublished research, and 
 
 ---
 
-## BHRIGU Public Reading Logic
+## 🟩 BHRIGU Public Reading Logic
 
 The BHRIGU public surface can be read in this order:
 
@@ -110,7 +112,7 @@ This reading logic describes the BHRIGU public surface, not the complete develop
 
 ---
 
-## Boundary Reinforcement
+## 🛡️ Boundary Reinforcement
 
 Public repositories on this GitHub profile are exposed selectively.
 
