@@ -73,7 +73,7 @@ The public page should read in this order:
 
 ## Boundary Reinforcement
 
-Public repositories in this organization are exposed selectively.
+Public repositories on this GitHub profile are exposed selectively.
 
 They show system structure, interface logic, canon, and controlled research visibility — not the complete internal engine, private operational infrastructure, or proprietary analytical mechanics.
 
