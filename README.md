@@ -6,7 +6,7 @@
 
 ---
 
-This organization exposes selected portal, interface, canon, and open research layers while keeping private infrastructure, internal engine pathways, and patent-sensitive mechanics outside the public boundary.
+This GitHub profile exposes selected portal, interface, canon, and open research layers while keeping private infrastructure, internal engine pathways, and patent-sensitive mechanics outside the public boundary.
 
 ---
 
@@ -26,7 +26,7 @@ Cosmography is the method-language that structures the visible and analytical la
 
 ## Public Boundary
 
-This GitHub organization is a curated public layer.
+This GitHub profile is a curated public layer.
 
 It is designed to expose selected system structure, interface logic, canon, and controlled research visibility without revealing the full internal analytical stack.
 
@@ -51,6 +51,12 @@ Core implementation pathways, private infrastructure, and patent-sensitive mecha
 ### Open Research
 
 **phi-cosmography-open** — open public atlas and selected research-facing window.
+
+## Public Surfaces
+
+**Reading** — public temporal reading surface linked to Frey.
+
+**Support** — quiet public support surface for BHRIGU.
 
 ---
 
