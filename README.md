@@ -1,7 +1,7 @@
 ## Research systems, selected public proof, and public surfaces
 
 <p align="center">
-  <img src="assets/aibhrigu_systems_banner.png" width="100%" alt="AiBhrigu Systems Banner">
+  <img src="assets/aibhrigu_systems_banner_v2_2.svg" width="100%" alt="AiBhrigu Systems — deterministic Phi-centered systems banner">
 </p>
 
 This GitHub profile is the public development-and-research home for selected AiBhrigu systems, repositories, evidence, and public surfaces.
