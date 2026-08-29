@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-  <title id="title">Phi Research Systems Banner</title>
+  <title id="title">AiBhrigu Systems Banner</title>
   <desc id="desc">A deterministic systems banner centered on Phi with Data Sources, Processing Core, Strategic Memory, Scenario Synthesis, and Input Output Interface.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
@@ -25,8 +25,8 @@
   <rect width="1600" height="520" rx="24" fill="url(#grid)" opacity="0.50"/>
   <rect x="18" y="18" width="1564" height="484" rx="22" fill="none" stroke="#30363d" stroke-width="2"/>
 
-  <text x="58" y="68" fill="#f0f6fc" font-size="29" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ Research Systems</text>
-  <text x="58" y="96" fill="#8b949e" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">development &amp; research architecture</text>
+  <text x="58" y="68" fill="#f0f6fc" font-size="29" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">AiBhrigu Systems</text>
+  <text x="58" y="96" fill="#8b949e" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ-centered development &amp; research architecture</text>
   <line x1="58" y1="113" x2="430" y2="113" stroke="#39c5bb" stroke-width="2"/>
 
   <g fill="none" stroke-width="2" opacity="0.78">
@@ -67,5 +67,5 @@
   <circle cx="593" cy="441" r="8" fill="#79c0ff"/>
   <text x="620" y="447" fill="#b6dbff" font-size="21" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Input / Output Interface</text>
 
-  <text x="1536" y="482" fill="#6e7681" font-size="11" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DETERMINISTIC SVG · GITHUB HOME V2.3</text>
+  <text x="1536" y="482" fill="#6e7681" font-size="11" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DETERMINISTIC SVG · GITHUB HOME V2.2</text>
 </svg>
