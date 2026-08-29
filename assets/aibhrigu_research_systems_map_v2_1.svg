@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
+  <title id="title">Research Systems Map</title>
+  <desc id="desc">A fact-locked map of development and research lines, selected public outputs, protected research, and achieved 2026 milestones.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1b222c" stroke-width="1"/>
@@ -7,21 +9,135 @@
     <linearGradient id="publicPanel" x1="0" x2="1"><stop offset="0%" stop-color="#0d1819"/><stop offset="100%" stop-color="#102024"/></linearGradient>
     <linearGradient id="milestonePanel" x1="0" x2="1"><stop offset="0%" stop-color="#14131d"/><stop offset="100%" stop-color="#18152a"/></linearGradient>
   </defs>
-  <rect width="1600" height="940" fill="#0d1117"/><rect width="1600" height="940" fill="url(#grid)" opacity="0.52"/>
-  <rect x="26" y="22" width="1548" height="105" rx="18" fill="#0f151d" stroke="#30363d" stroke-width="2"/><text x="800" y="69" fill="#f0f6fc" font-size="36" font-weight="700" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">AiBhrigu Research Systems</text><text x="800" y="101" fill="#9da7b3" font-size="16" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">development · research · selected public proof</text><line x1="620" y1="116" x2="980" y2="116" stroke="#39c5bb" stroke-width="2"/><text x="800" y="123" fill="#79c0ff" font-size="20" font-weight="600" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ</text>
-  <rect x="28" y="150" width="1020" height="570" rx="18" fill="url(#corePanel)" stroke="#30363d" stroke-width="2"/><text x="50" y="190" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DEVELOPMENT &amp; RESEARCH</text><text x="50" y="214" fill="#8b949e" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Public-safe names · protected mechanisms remain sealed</text>
-  <g stroke="#4a5563" stroke-width="1.8" stroke-dasharray="5 6" opacity="0.9"><line x1="532" y1="462" x2="532" y2="318"/><line x1="532" y1="462" x2="350" y2="355"/><line x1="532" y1="462" x2="716" y2="346"/><line x1="532" y1="462" x2="340" y2="520"/><line x1="532" y1="462" x2="720" y2="510"/><line x1="532" y1="462" x2="392" y2="674"/><line x1="532" y1="462" x2="664" y2="674"/></g>
-  <circle cx="532" cy="462" r="118" fill="#0d141d" stroke="#30363d" stroke-width="3"/><circle cx="532" cy="462" r="80" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0.85"/><circle cx="532" cy="462" r="252" fill="none" stroke="#3b4654" stroke-width="2" stroke-dasharray="5 8"/><text x="532" y="491" fill="#c7d1db" font-size="88" font-weight="500" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ</text>
-  <rect x="402" y="225" width="260" height="95" rx="12" fill="#131a24" stroke="#79c0ff" stroke-width="2" stroke-dasharray="8 7"/><circle cx="430" cy="257" r="8" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/><text x="453" y="263" fill="#79c0ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">ORION</text><text x="422" y="295" fill="#9da7b3" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">protected analytical depth</text><text x="642" y="247" fill="#6ea8d9" font-size="11" font-weight="700" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROTECTED</text>
-  <rect x="60" y="305" width="300" height="96" rx="12" fill="#121b20" stroke="#39c5bb" stroke-width="2"/><circle cx="90" cy="338" r="8" fill="#0d1117" stroke="#56d4c9" stroke-width="2"/><text x="113" y="344" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Frey</text><text x="82" y="378" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">temporal reading &amp; dialogue method</text>
-  <rect x="704" y="294" width="320" height="96" rx="12" fill="#121b20" stroke="#39c5bb" stroke-width="2"/><circle cx="734" cy="327" r="8" fill="#0d1117" stroke="#56d4c9" stroke-width="2"/><text x="757" y="333" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Cosmography</text><text x="726" y="367" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">structure, cycles &amp; relations</text>
-  <rect x="50" y="472" width="310" height="96" rx="12" fill="#121b20" stroke="#39c5bb" stroke-width="2"/><circle cx="80" cy="505" r="8" fill="#0d1117" stroke="#56d4c9" stroke-width="2"/><text x="103" y="511" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Cosmographer</text><text x="72" y="545" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">interpretation &amp; navigation role</text>
-  <rect x="704" y="462" width="320" height="96" rx="12" fill="#101923" stroke="#58a6ff" stroke-width="2"/><circle cx="734" cy="495" r="8" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/><text x="757" y="501" fill="#79c0ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Ephemerides</text><text x="726" y="535" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">astronomical computation &amp; provenance</text>
-  <rect x="105" y="625" width="295" height="96" rx="12" fill="#171726" stroke="#a5b4fc" stroke-width="2" stroke-dasharray="8 7"/><circle cx="135" cy="658" r="8" fill="#0d1117" stroke="#a5b4fc" stroke-width="2"/><text x="158" y="664" fill="#a5b4fc" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">X4</text><text x="127" y="698" fill="#aab2c0" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">protected research line</text><text x="382" y="648" fill="#8d9be8" font-size="11" font-weight="700" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROTECTED</text>
-  <rect x="650" y="625" width="380" height="96" rx="12" fill="#171726" stroke="#a5b4fc" stroke-width="2" stroke-dasharray="8 7"/><circle cx="680" cy="658" r="8" fill="#0d1117" stroke="#a5b4fc" stroke-width="2"/><text x="703" y="664" fill="#a5b4fc" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Dynamical Engine</text><text x="672" y="698" fill="#aab2c0" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">protected research line</text><text x="1010" y="648" fill="#8d9be8" font-size="11" font-weight="700" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROTECTED</text>
-  <rect x="1070" y="150" width="502" height="570" rx="18" fill="url(#publicPanel)" stroke="#238d86" stroke-width="2"/><rect x="1070" y="150" width="8" height="570" rx="4" fill="#39c5bb"/><text x="1100" y="190" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SELECTED PUBLIC OUTPUTS</text><text x="1100" y="214" fill="#8fa5a5" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Existing public-facing artifacts and surfaces</text>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"><rect x="1096" y="244" width="448" height="74" rx="10" fill="#122021" stroke="#2ea89f" stroke-width="1.8"/><circle cx="1122" cy="281" r="7" fill="#39c5bb"/><text x="1144" y="276" fill="#7ee0d7" font-size="19" font-weight="700">BHRIGU</text><text x="1144" y="300" fill="#9db1b2" font-size="14">public product &amp; research surface</text><rect x="1096" y="332" width="448" height="74" rx="10" fill="#11202a" stroke="#438fc8" stroke-width="1.8"/><circle cx="1122" cy="369" r="7" fill="#58a6ff"/><text x="1144" y="364" fill="#79c0ff" font-size="19" font-weight="700">BTC Cosmographer</text><text x="1144" y="388" fill="#9fb0bf" font-size="14">evidence-linked Bitcoin intelligence</text><rect x="1096" y="420" width="448" height="74" rx="10" fill="#12221d" stroke="#3fb950" stroke-width="1.8"/><circle cx="1122" cy="457" r="7" fill="#3fb950"/><text x="1144" y="452" fill="#70d882" font-size="19" font-weight="700">Bitcoin Evidence Commons</text><text x="1144" y="476" fill="#a4b5a7" font-size="14">public Bitcoin evidence toolkit &amp; dataset</text><rect x="1096" y="508" width="448" height="74" rx="10" fill="#122021" stroke="#2ea89f" stroke-width="1.8"/><circle cx="1122" cy="545" r="7" fill="#39c5bb"/><text x="1144" y="540" fill="#7ee0d7" font-size="19" font-weight="700">Frey Reading</text><text x="1144" y="564" fill="#9db1b2" font-size="14">public reading surface</text><rect x="1096" y="596" width="448" height="74" rx="10" fill="#121d22" stroke="#46b6c7" stroke-width="1.8"/><circle cx="1122" cy="633" r="7" fill="#46b6c7"/><text x="1144" y="628" fill="#72cfdd" font-size="19" font-weight="700">Φ-Cosmography Open</text><text x="1144" y="652" fill="#9fb3b6" font-size="14">open visual research atlas</text></g>
-  <rect x="28" y="744" width="1544" height="166" rx="18" fill="url(#milestonePanel)" stroke="#7c6ac7" stroke-width="2"/><rect x="28" y="744" width="1544" height="8" rx="4" fill="#a371f7"/><text x="50" y="790" fill="#c9a7ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SELECTED 2026 MILESTONES</text><text x="50" y="814" fill="#a79db8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Achieved states only · no roadmap implied</text>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"><rect x="390" y="776" width="270" height="96" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/><text x="410" y="806" fill="#c9a7ff" font-size="17" font-weight="700">BTC Cosmographer</text><text x="410" y="833" fill="#b0a6bd" font-size="13">first proven public Bitcoin corridor</text><rect x="680" y="776" width="270" height="96" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/><text x="700" y="806" fill="#c9a7ff" font-size="17" font-weight="700">Market Cosmographer</text><text x="700" y="833" fill="#b0a6bd" font-size="13">current primary public product frame</text><rect x="970" y="776" width="290" height="96" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/><text x="990" y="806" fill="#c9a7ff" font-size="17" font-weight="700">Bitcoin Evidence Commons v0.1.0</text><text x="990" y="833" fill="#b0a6bd" font-size="13">12 evidence records · 24 benchmarks</text><rect x="1280" y="776" width="260" height="96" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/><text x="1300" y="806" fill="#c9a7ff" font-size="17" font-weight="700">Frey</text><text x="1300" y="833" fill="#b0a6bd" font-size="13">public method · reading · dialogue</text></g>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12"><circle cx="58" cy="884" r="6" fill="#39c5bb"/><text x="72" y="888" fill="#8fa5a5">public / method</text><circle cx="180" cy="884" r="6" fill="#79c0ff"/><text x="194" y="888" fill="#97a9bb">analytical / evidence</text><circle cx="350" cy="884" r="6" fill="#a5b4fc"/><text x="364" y="888" fill="#aaaec0">protected research</text><circle cx="505" cy="884" r="6" fill="#a371f7"/><text x="519" y="888" fill="#b0a6bd">achieved milestone</text></g>
+  <rect width="1600" height="1120" fill="#0d1117"/>
+  <rect width="1600" height="1120" fill="url(#grid)" opacity="0.52"/>
+
+  <rect x="26" y="22" width="1548" height="105" rx="18" fill="#0f151d" stroke="#30363d" stroke-width="2"/>
+  <text x="800" y="69" fill="#f0f6fc" font-size="36" font-weight="700" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Research Systems Map</text>
+  <text x="800" y="101" fill="#9da7b3" font-size="16" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">development · research · selected public proof</text>
+  <line x1="620" y1="116" x2="980" y2="116" stroke="#39c5bb" stroke-width="2"/>
+  <text x="800" y="123" fill="#79c0ff" font-size="20" font-weight="600" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ</text>
+
+  <rect x="28" y="150" width="1020" height="570" rx="18" fill="url(#corePanel)" stroke="#30363d" stroke-width="2"/>
+  <text x="50" y="190" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DEVELOPMENT &amp; RESEARCH</text>
+  <text x="50" y="214" fill="#8b949e" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Public-safe names · protected mechanisms remain sealed</text>
+
+  <g stroke="#4a5563" stroke-width="1.8" stroke-dasharray="5 6" opacity="0.9">
+    <line x1="532" y1="462" x2="532" y2="318"/>
+    <line x1="532" y1="462" x2="350" y2="355"/>
+    <line x1="532" y1="462" x2="716" y2="346"/>
+    <line x1="532" y1="462" x2="340" y2="520"/>
+    <line x1="532" y1="462" x2="720" y2="510"/>
+    <line x1="532" y1="462" x2="392" y2="674"/>
+    <line x1="532" y1="462" x2="664" y2="674"/>
+  </g>
+
+  <circle cx="532" cy="462" r="118" fill="#0d141d" stroke="#30363d" stroke-width="3"/>
+  <circle cx="532" cy="462" r="80" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0.85"/>
+  <circle cx="532" cy="462" r="252" fill="none" stroke="#3b4654" stroke-width="2" stroke-dasharray="5 8"/>
+  <text x="532" y="491" fill="#c7d1db" font-size="88" font-weight="500" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ</text>
+
+  <rect x="402" y="225" width="260" height="95" rx="12" fill="#131a24" stroke="#79c0ff" stroke-width="2" stroke-dasharray="8 7"/>
+  <circle cx="430" cy="257" r="8" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+  <text x="453" y="263" fill="#79c0ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">ORION</text>
+  <text x="422" y="295" fill="#9da7b3" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">protected analytical depth</text>
+  <text x="642" y="247" fill="#6ea8d9" font-size="11" font-weight="700" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROTECTED</text>
+
+  <rect x="60" y="305" width="300" height="96" rx="12" fill="#121b20" stroke="#39c5bb" stroke-width="2"/>
+  <circle cx="90" cy="338" r="8" fill="#0d1117" stroke="#56d4c9" stroke-width="2"/>
+  <text x="113" y="344" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Frey</text>
+  <text x="82" y="378" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">temporal reading &amp; dialogue method</text>
+
+  <rect x="704" y="294" width="320" height="96" rx="12" fill="#121b20" stroke="#39c5bb" stroke-width="2"/>
+  <circle cx="734" cy="327" r="8" fill="#0d1117" stroke="#56d4c9" stroke-width="2"/>
+  <text x="757" y="333" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Cosmography</text>
+  <text x="726" y="367" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">structure, cycles &amp; relations</text>
+
+  <rect x="50" y="472" width="310" height="96" rx="12" fill="#121b20" stroke="#39c5bb" stroke-width="2"/>
+  <circle cx="80" cy="505" r="8" fill="#0d1117" stroke="#56d4c9" stroke-width="2"/>
+  <text x="103" y="511" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Cosmographer</text>
+  <text x="72" y="545" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">interpretation &amp; navigation role</text>
+
+  <rect x="704" y="462" width="320" height="96" rx="12" fill="#101923" stroke="#58a6ff" stroke-width="2"/>
+  <circle cx="734" cy="495" r="8" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+  <text x="757" y="501" fill="#79c0ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Ephemerides</text>
+  <text x="726" y="535" fill="#a2adb7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">astronomical computation &amp; provenance</text>
+
+  <rect x="105" y="625" width="295" height="96" rx="12" fill="#171726" stroke="#a5b4fc" stroke-width="2" stroke-dasharray="8 7"/>
+  <circle cx="135" cy="658" r="8" fill="#0d1117" stroke="#a5b4fc" stroke-width="2"/>
+  <text x="158" y="664" fill="#a5b4fc" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">X4</text>
+  <text x="127" y="698" fill="#aab2c0" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">protected research line</text>
+  <text x="382" y="648" fill="#8d9be8" font-size="11" font-weight="700" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROTECTED</text>
+
+  <rect x="650" y="625" width="380" height="96" rx="12" fill="#171726" stroke="#a5b4fc" stroke-width="2" stroke-dasharray="8 7"/>
+  <circle cx="680" cy="658" r="8" fill="#0d1117" stroke="#a5b4fc" stroke-width="2"/>
+  <text x="703" y="664" fill="#a5b4fc" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Dynamical Engine</text>
+  <text x="672" y="698" fill="#aab2c0" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">protected research line</text>
+  <text x="1010" y="648" fill="#8d9be8" font-size="11" font-weight="700" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROTECTED</text>
+
+  <rect x="1070" y="150" width="502" height="570" rx="18" fill="url(#publicPanel)" stroke="#238d86" stroke-width="2"/>
+  <rect x="1070" y="150" width="8" height="570" rx="4" fill="#39c5bb"/>
+  <text x="1100" y="190" fill="#56d4c9" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SELECTED PUBLIC OUTPUTS</text>
+  <text x="1100" y="214" fill="#8fa5a5" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Existing public-facing artifacts and surfaces</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="1096" y="244" width="448" height="74" rx="10" fill="#122021" stroke="#2ea89f" stroke-width="1.8"/>
+    <circle cx="1122" cy="281" r="7" fill="#39c5bb"/>
+    <text x="1144" y="276" fill="#7ee0d7" font-size="19" font-weight="700">BHRIGU</text>
+    <text x="1144" y="300" fill="#9db1b2" font-size="14">public product &amp; research surface</text>
+
+    <rect x="1096" y="332" width="448" height="74" rx="10" fill="#11202a" stroke="#438fc8" stroke-width="1.8"/>
+    <circle cx="1122" cy="369" r="7" fill="#58a6ff"/>
+    <text x="1144" y="364" fill="#79c0ff" font-size="19" font-weight="700">BTC Cosmographer</text>
+    <text x="1144" y="388" fill="#9fb0bf" font-size="14">evidence-linked Bitcoin intelligence</text>
+
+    <rect x="1096" y="420" width="448" height="74" rx="10" fill="#12221d" stroke="#3fb950" stroke-width="1.8"/>
+    <circle cx="1122" cy="457" r="7" fill="#3fb950"/>
+    <text x="1144" y="452" fill="#70d882" font-size="19" font-weight="700">Bitcoin Evidence Commons</text>
+    <text x="1144" y="476" fill="#a4b5a7" font-size="14">public Bitcoin evidence toolkit &amp; dataset</text>
+
+    <rect x="1096" y="508" width="448" height="74" rx="10" fill="#122021" stroke="#2ea89f" stroke-width="1.8"/>
+    <circle cx="1122" cy="545" r="7" fill="#39c5bb"/>
+    <text x="1144" y="540" fill="#7ee0d7" font-size="19" font-weight="700">Frey Reading</text>
+    <text x="1144" y="564" fill="#9db1b2" font-size="14">public reading surface</text>
+
+    <rect x="1096" y="596" width="448" height="74" rx="10" fill="#121d22" stroke="#46b6c7" stroke-width="1.8"/>
+    <circle cx="1122" cy="633" r="7" fill="#46b6c7"/>
+    <text x="1144" y="628" fill="#72cfdd" font-size="19" font-weight="700">Φ-Cosmography Open</text>
+    <text x="1144" y="652" fill="#9fb3b6" font-size="14">open visual research atlas</text>
+  </g>
+
+  <rect x="28" y="744" width="1544" height="348" rx="18" fill="url(#milestonePanel)" stroke="#7c6ac7" stroke-width="2"/>
+  <rect x="28" y="744" width="1544" height="8" rx="4" fill="#a371f7"/>
+  <text x="50" y="790" fill="#c9a7ff" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SELECTED 2026 MILESTONES</text>
+  <text x="50" y="814" fill="#a79db8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Achieved states only · no roadmap implied</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="50" y="838" width="730" height="94" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/>
+    <text x="74" y="870" fill="#c9a7ff" font-size="18" font-weight="700">BTC Cosmographer</text>
+    <text x="74" y="896" fill="#b0a6bd" font-size="14">first proven public</text>
+    <text x="74" y="918" fill="#b0a6bd" font-size="14">Bitcoin corridor</text>
+
+    <rect x="800" y="838" width="730" height="94" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/>
+    <text x="824" y="870" fill="#c9a7ff" font-size="18" font-weight="700">Market Cosmographer</text>
+    <text x="824" y="896" fill="#b0a6bd" font-size="14">current primary</text>
+    <text x="824" y="918" fill="#b0a6bd" font-size="14">public product frame</text>
+
+    <rect x="50" y="950" width="730" height="94" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/>
+    <text x="74" y="982" fill="#c9a7ff" font-size="18" font-weight="700">Bitcoin Evidence Commons v0.1.0</text>
+    <text x="74" y="1008" fill="#b0a6bd" font-size="14">12 evidence records</text>
+    <text x="74" y="1030" fill="#b0a6bd" font-size="14">24 benchmark cases</text>
+
+    <rect x="800" y="950" width="730" height="94" rx="12" fill="#191528" stroke="#8b6fc7" stroke-width="1.6"/>
+    <text x="824" y="982" fill="#c9a7ff" font-size="18" font-weight="700">Frey</text>
+    <text x="824" y="1008" fill="#b0a6bd" font-size="14">public method</text>
+    <text x="824" y="1030" fill="#b0a6bd" font-size="14">reading · dialogue</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">
+    <circle cx="58" cy="1070" r="6" fill="#39c5bb"/><text x="72" y="1074" fill="#8fa5a5">public / method</text>
+    <circle cx="180" cy="1070" r="6" fill="#79c0ff"/><text x="194" y="1074" fill="#97a9bb">analytical / evidence</text>
+    <circle cx="350" cy="1070" r="6" fill="#a5b4fc"/><text x="364" y="1074" fill="#aaaec0">protected research</text>
+    <circle cx="505" cy="1070" r="6" fill="#a371f7"/><text x="519" y="1074" fill="#b0a6bd">achieved milestone</text>
+  </g>
 </svg>
