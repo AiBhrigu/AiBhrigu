@@ -18,7 +18,7 @@ It exposes public-safe structure and achieved proof while keeping private infras
 
 ## 🔎 Public proof & entry points
 
-* **BTC Cosmographer** — [public Bitcoin surface](https://www.bhrigu.io/crypto-astro/btc?lang=en) · [current dialogue](https://www.bhrigu.io/crypto-astro/btc/clean-chat?lang=en) · [acceptance contract](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-clean-chat-v1-acceptance.ts).
+* **BTC Cosmographer** — [public Bitcoin surface](https://www.bhrigu.io/crypto-astro/btc?lang=en) · [Cosmographer overview](https://www.bhrigu.io/cosmographer?lang=en) · [acceptance contract](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-clean-chat-v1-acceptance.ts).
 * **Native Bitcoin Support** — [public support surface](https://www.bhrigu.io/support?lang=en) · [production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts). The public proof shows an engineered Bitcoin support corridor without exposing private operational details.
 * **Bitcoin Evidence Commons** — [public repository](https://github.com/AiBhrigu/bitcoin-evidence-commons). The v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
 * **Frey** — [public method](https://www.bhrigu.io/frey?lang=en) · [reading surface](https://www.bhrigu.io/reading?lang=en) · [public-safe repository](https://github.com/AiBhrigu/frey-core-safe).
@@ -65,7 +65,7 @@ These milestones describe achieved states only. They do not imply a future roadm
 
 ## ₿ Native Bitcoin Support
 
-BHRIGU includes an achieved public Bitcoin support corridor with bounded admission and receipt-verification proof. The public surface and acceptance evidence are visible; receiver operations, secrets, private bridges, and protected infrastructure are not part of this public description.
+BHRIGU includes an achieved public Bitcoin support corridor with bounded admission and receipt-verification proof. The public surface and acceptance evidence are visible; private operational details and protected infrastructure are not part of this public description.
 
 [Open the support surface](https://www.bhrigu.io/support?lang=en) · [Inspect production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts)
 
@@ -79,7 +79,7 @@ Machine reading should preserve this order:
 
 **Source / raw data → observation → bounded interpretation → uncertainty / boundary → human decision.**
 
-The BTC Clean Chat dialogue is session-local and noindex; it is a user dialogue surface, not durable published evidence. Public descriptions must not be treated as evidence of protected mechanisms.
+The BTC Clean Chat dialogue is session-local and noindex; it is a user dialogue surface, not an agent API and not durable published evidence. Public descriptions must not be treated as evidence of protected mechanisms.
 
 ---
 
