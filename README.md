@@ -67,7 +67,7 @@ These milestones describe achieved states only. They do not imply a future roadm
 
 BHRIGU includes an achieved public Bitcoin support corridor with bounded admission and receipt-verification proof. The public surface and acceptance evidence are visible; private operational details and protected infrastructure are not part of this public description.
 
-[Open the support surface](https://www.bhrigu.io/support?lang=en) · [Inspect production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts)
+[Open the support surface](https://www.bhrigu.io/support?lang=en) · [Inspect admission acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-admission-acceptance.ts) · [Inspect production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts)
 
 ---
 
