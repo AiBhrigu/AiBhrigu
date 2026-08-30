@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1040" viewBox="0 0 760 1040" role="img" aria-labelledby="title desc">
+<title id="title">Phi Research Systems — Mobile-first systems banner</title>
+<desc id="desc">A mobile-readable deterministic Phi-centered field map of public-safe system functions.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1b222c" stroke-width="1"/></pattern></defs>
+<rect width="760" height="1040" rx="22" fill="#0d1117"/><rect width="760" height="1040" rx="22" fill="url(#grid)" opacity="0.48"/>
+<rect x="18" y="18" width="724" height="1004" rx="20" fill="none" stroke="#30363d" stroke-width="2"/>
+<text x="42" y="70" fill="#f0f6fc" font-size="42" font-weight="700" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ Research Systems</text>
+<text x="42" y="104" fill="#8b949e" font-size="18" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">development &amp; research architecture</text>
+<line x1="42" y1="124" x2="420" y2="124" stroke="#39c5bb" stroke-width="3"/>
+<circle cx="380" cy="220" r="82" fill="#101722" stroke="#30363d" stroke-width="3"/>
+<circle cx="380" cy="220" r="60" fill="none" stroke="#79c0ff" stroke-width="3"/>
+<text x="380" y="245" fill="#d8e1ea" font-size="78" font-weight="500" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Φ</text>
+<text x="380" y="287" fill="#8b949e" font-size="18" font-weight="700" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">FIELD AXIS</text>
+<line x1="72" y1="350" x2="72" y2="952" stroke="#3b4654" stroke-width="3"/>
+<circle cx="72" cy="389" r="9" fill="#0d1117" stroke="#39c5bb" stroke-width="3"/>
+<line x1="82" y1="389" x2="112" y2="389" stroke="#39c5bb" stroke-width="2"/>
+<rect x="112" y="340" width="606" height="98" rx="14" fill="#10201f" stroke="#39c5bb" stroke-width="2"/>
+<circle cx="140" cy="372" r="7" fill="#39c5bb"/>
+<text x="162" y="380" fill="#7ee0d7" font-size="25" font-weight="700" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Data Sources</text>
+<text x="140" y="413" fill="#a6b0bb" font-size="20" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">observations · evidence · temporal inputs</text>
+<circle cx="72" cy="515" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+<line x1="82" y1="515" x2="112" y2="515" stroke="#58a6ff" stroke-width="2"/>
+<rect x="112" y="466" width="606" height="98" rx="14" fill="#101923" stroke="#58a6ff" stroke-width="2"/>
+<circle cx="140" cy="498" r="7" fill="#58a6ff"/>
+<text x="162" y="506" fill="#79c0ff" font-size="25" font-weight="700" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Processing Core</text>
+<text x="140" y="539" fill="#a6b0bb" font-size="20" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">bounded computation · analytical transforms</text>
+<circle cx="72" cy="641" r="9" fill="#0d1117" stroke="#a5b4fc" stroke-width="3"/>
+<line x1="82" y1="641" x2="112" y2="641" stroke="#a5b4fc" stroke-width="2"/>
+<rect x="112" y="592" width="606" height="98" rx="14" fill="#171726" stroke="#a5b4fc" stroke-width="2"/>
+<circle cx="140" cy="624" r="7" fill="#a5b4fc"/>
+<text x="162" y="632" fill="#c3c9ff" font-size="25" font-weight="700" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Strategic Memory</text>
+<text x="140" y="665" fill="#a6b0bb" font-size="20" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">continuity · state · preserved context</text>
+<circle cx="72" cy="767" r="9" fill="#0d1117" stroke="#8b5cf6" stroke-width="3"/>
+<line x1="82" y1="767" x2="112" y2="767" stroke="#8b5cf6" stroke-width="2"/>
+<rect x="112" y="718" width="606" height="98" rx="14" fill="#19152a" stroke="#8b5cf6" stroke-width="2"/>
+<circle cx="140" cy="750" r="7" fill="#8b5cf6"/>
+<text x="162" y="758" fill="#b9a4ff" font-size="25" font-weight="700" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Scenario Synthesis</text>
+<text x="140" y="791" fill="#a6b0bb" font-size="20" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">interpretation · relations · bounded outputs</text>
+<circle cx="72" cy="893" r="9" fill="#0d1117" stroke="#46b6c7" stroke-width="3"/>
+<line x1="82" y1="893" x2="112" y2="893" stroke="#46b6c7" stroke-width="2"/>
+<rect x="112" y="844" width="606" height="98" rx="14" fill="#101b21" stroke="#46b6c7" stroke-width="2"/>
+<circle cx="140" cy="876" r="7" fill="#46b6c7"/>
+<text x="162" y="884" fill="#8bd8e2" font-size="25" font-weight="700" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Input / Output Interface</text>
+<text x="140" y="917" fill="#a6b0bb" font-size="20" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">controlled public-facing interaction</text>
+<text x="718" y="1000" fill="#6e7681" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DETERMINISTIC SVG · GITHUB HOME V2.4</text>
+</svg>
