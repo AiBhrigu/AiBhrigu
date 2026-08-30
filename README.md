@@ -1,7 +1,7 @@
 ## Research systems, selected public proof, and public surfaces
 
 <p align="center">
-  <img src="assets/phi_research_systems_banner_v2_3.svg" width="100%" alt="Phi Research Systems — deterministic Phi-centered systems banner">
+  <img src="assets/phi_research_systems_banner_v2_4.svg" width="100%" alt="Phi Research Systems — mobile-first deterministic Phi-centered systems banner">
 </p>
 
 This GitHub profile is the public development-and-research home for selected systems, repositories, evidence, and public surfaces.
@@ -9,10 +9,22 @@ This GitHub profile is the public development-and-research home for selected sys
 It exposes public-safe structure and achieved proof while keeping private infrastructure, internal engine pathways, unpublished research, and patent-sensitive mechanics outside the public boundary.
 
 <p align="center">
-  <img src="assets/research_systems_map_v2_3.svg" width="100%" alt="Research Systems Map — color-semantic fact-locked development, public outputs, protected research, and 2026 milestones">
+  <img src="assets/research_systems_map_v2_4.svg" width="100%" alt="Research Systems Map — mobile-first fact-locked development, public outputs, protected research, and 2026 milestones">
 </p>
 
 **Visual key:** cyan = public / method · blue = analytical / evidence · periwinkle = protected research · violet = achieved milestone.
+
+---
+
+## 🔎 Public proof & entry points
+
+* **BTC Cosmographer** — [public Bitcoin surface](https://www.bhrigu.io/crypto-astro/btc?lang=en) · [current dialogue](https://www.bhrigu.io/crypto-astro/btc/clean-chat?lang=en) · [acceptance contract](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-clean-chat-v1-acceptance.ts).
+* **Native Bitcoin Support** — [public support surface](https://www.bhrigu.io/support?lang=en) · [production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts). The public proof shows an engineered Bitcoin support corridor without exposing private operational details.
+* **Bitcoin Evidence Commons** — [public repository](https://github.com/AiBhrigu/bitcoin-evidence-commons). The v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
+* **Frey** — [public method](https://www.bhrigu.io/frey?lang=en) · [reading surface](https://www.bhrigu.io/reading?lang=en) · [public-safe repository](https://github.com/AiBhrigu/frey-core-safe).
+* **Machine-readable discovery** — [llms.txt](https://www.bhrigu.io/llms.txt) · [sitemap](https://www.bhrigu.io/sitemap.xml) · [robots.txt](https://www.bhrigu.io/robots.txt).
+
+GitHub is used here as a **source and proof surface**, not as a mirror of private implementation.
 
 ---
 
@@ -41,83 +53,38 @@ These milestones describe achieved states only. They do not imply a future roadm
 
 ---
 
-## 🟩 BHRIGU Public Surface Map
+## 📦 Selected Public Repositories
 
-Within BHRIGU's public surface:
+* [**bhrigu-portal**](https://github.com/AiBhrigu/bhrigu-portal) — public bridge and product/research surface for BHRIGU.
+* [**frey-core-safe**](https://github.com/AiBhrigu/frey-core-safe) — controlled public interface-layer repository for Frey.
+* [**phi-cosmography-canon**](https://github.com/AiBhrigu/phi-cosmography-canon) — canonical doctrine, structural invariants, and method layer.
+* [**phi-cosmography-open**](https://github.com/AiBhrigu/phi-cosmography-open) — open visual atlas and selected research-facing window.
+* [**bitcoin-evidence-commons**](https://github.com/AiBhrigu/bitcoin-evidence-commons) — standalone public Bitcoin evidence toolkit and dataset; existing v0.1.0 public bootstrap only.
 
-* **BHRIGU** — public bridge / trusted boundary surface.
-* **Frey** — interface ray.
-* **Cosmography** — method-language field.
-* **ORION** — analytical depth.
+---
 
-BHRIGU is not the engine itself.
-ORION is not the public portal.
-Frey is not the whole system.
-Cosmography is the method-language that structures the visible and analytical layers.
+## ₿ Native Bitcoin Support
 
-BHRIGU is one public product and research surface within the broader development house; it does not define all present or future research lines.
+BHRIGU includes an achieved public Bitcoin support corridor with bounded admission and receipt-verification proof. The public surface and acceptance evidence are visible; receiver operations, secrets, private bridges, and protected infrastructure are not part of this public description.
+
+[Open the support surface](https://www.bhrigu.io/support?lang=en) · [Inspect production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts)
+
+---
+
+## 🤖 Machine-readable public graph
+
+For AI agents and machine readers, start with [**llms.txt**](https://www.bhrigu.io/llms.txt). It defines the current public graph, canonical RU/EN surfaces, evidence boundaries, and protected-research boundary. Use the [sitemap](https://www.bhrigu.io/sitemap.xml) for the indexable route graph.
+
+Machine reading should preserve this order:
+
+**Source / raw data → observation → bounded interpretation → uncertainty / boundary → human decision.**
+
+The BTC Clean Chat dialogue is session-local and noindex; it is a user dialogue surface, not durable published evidence. Public descriptions must not be treated as evidence of protected mechanisms.
 
 ---
 
 ## 🛡️ Public Boundary
 
-This GitHub profile is a curated public layer.
+This profile is a curated public layer across a broader development and research house. **BHRIGU is a public product and research surface, not the engine itself.**
 
-It is designed to expose selected system structure, interface logic, canon, achieved public proof, and controlled research visibility without revealing the full internal analytical stack.
-
-Core implementation pathways, private infrastructure, unpublished research, and patent-sensitive mechanics remain outside the public boundary.
-
----
-
-## 📦 Selected Public Repositories
-
-### Portal
-
-**bhrigu-portal** — public bridge and product/research surface for BHRIGU.
-
-### Interface
-
-**frey-core-safe** — controlled public interface-layer repository for Frey.
-
-### Canon
-
-**phi-cosmography-canon** — canonical doctrine, structural invariants, and method layer.
-
-### Open Research
-
-**phi-cosmography-open** — open visual atlas and selected research-facing window.
-
-### Bitcoin Evidence
-
-**bitcoin-evidence-commons** — standalone public Bitcoin evidence toolkit and dataset; the existing v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
-
-## 🟩 BHRIGU Public Surfaces
-
-**Reading** — public temporal reading surface linked to Frey.
-
-**Support** — quiet public support surface for BHRIGU.
-
----
-
-## 🟩 BHRIGU Public Reading Logic
-
-The BHRIGU public surface can be read in this order:
-
-1. **BHRIGU** — bridge.
-2. **Frey** — interface.
-3. **Cosmography** — canon.
-4. **ORION** — depth.
-
-This reading logic describes the BHRIGU public surface, not the complete development-and-research architecture.
-
----
-
-## 🛡️ Boundary Reinforcement
-
-Public repositories on this GitHub profile are exposed selectively.
-
-They show system structure, interface logic, canon, achieved evidence, and controlled research visibility — not the complete internal engine, private operational infrastructure, proprietary analytical mechanics, or unpublished research.
-
-The public portal is not the full engine surface.
-Public repositories are not the complete internal system.
-Private infrastructure, unpublished research, and patent-sensitive mechanics remain outside the public boundary.
+Public repositories expose selected system structure, interface logic, canon, achieved evidence, and controlled research visibility. Core implementation pathways, private operational infrastructure, unpublished research, proprietary analytical mechanics, and patent-sensitive mechanisms remain outside the public boundary.
