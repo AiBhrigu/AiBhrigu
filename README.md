@@ -1,7 +1,7 @@
 ## Research systems, selected public proof, and public surfaces
 
 <p align="center">
-  <img src="assets/phi_research_systems_banner_v2_4.svg" width="100%" alt="Phi Research Systems — mobile-first deterministic Phi-centered systems banner">
+  <img src="assets/phi_research_systems_banner_v2_4.svg" width="760" alt="Phi Research Systems — mobile-first deterministic Phi-centered systems banner">
 </p>
 
 This GitHub profile is the public development-and-research home for selected systems, repositories, evidence, and public surfaces.
@@ -9,7 +9,7 @@ This GitHub profile is the public development-and-research home for selected sys
 It exposes public-safe structure and achieved proof while keeping private infrastructure, internal engine pathways, unpublished research, and patent-sensitive mechanics outside the public boundary.
 
 <p align="center">
-  <img src="assets/research_systems_map_v2_4.svg" width="100%" alt="Research Systems Map — mobile-first fact-locked development, public outputs, protected research, and 2026 milestones">
+  <img src="assets/research_systems_map_v2_4.svg" width="760" alt="Research Systems Map — mobile-first fact-locked development, public outputs, protected research, and 2026 milestones">
 </p>
 
 **Visual key:** cyan = public / method · blue = analytical / evidence · periwinkle = protected research · violet = achieved milestone.
@@ -23,6 +23,9 @@ It exposes public-safe structure and achieved proof while keeping private infras
 * **Bitcoin Evidence Commons** — [public repository](https://github.com/AiBhrigu/bitcoin-evidence-commons). The v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
 * **Frey** — [public method](https://www.bhrigu.io/frey?lang=en) · [reading surface](https://www.bhrigu.io/reading?lang=en) · [public-safe repository](https://github.com/AiBhrigu/frey-core-safe).
 * **Machine-readable discovery** — [llms.txt](https://www.bhrigu.io/llms.txt) · [sitemap](https://www.bhrigu.io/sitemap.xml) · [robots.txt](https://www.bhrigu.io/robots.txt).
+* **Economic contact** — [support the public research](https://www.bhrigu.io/support?lang=en) · [request a private Bitcoin research review](https://bitcointalk.org/index.php?topic=5592046.0).
+
+Support and paid research are separate paths: support does not purchase a review, and service payment follows scope acceptance.
 
 GitHub is used here as a **source and proof surface**, not as a mirror of private implementation.
 
@@ -68,6 +71,8 @@ These milestones describe achieved states only. They do not imply a future roadm
 BHRIGU includes an achieved public Bitcoin support corridor with bounded admission and receipt-verification proof. The public surface and acceptance evidence are visible; private operational details and protected infrastructure are not part of this public description.
 
 [Open the support surface](https://www.bhrigu.io/support?lang=en) · [Inspect admission acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-admission-acceptance.ts) · [Inspect production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts)
+
+The support corridor and the paid Bitcoin research service are distinct economic paths. Support is voluntary and does not purchase a private review.
 
 ---
 
