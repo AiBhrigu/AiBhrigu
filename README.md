@@ -19,11 +19,15 @@ It exposes public-safe structure and achieved proof while keeping private infras
 ## 🔎 Public proof & entry points
 
 * **BTC Cosmographer** — [public Bitcoin surface](https://www.bhrigu.io/crypto-astro/btc?lang=en) · [Cosmographer overview](https://www.bhrigu.io/cosmographer?lang=en) · [acceptance contract](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-clean-chat-v1-acceptance.ts).
-* **Native Bitcoin Support** — [public support surface](https://www.bhrigu.io/support?lang=en) · [production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts). The public proof shows an engineered Bitcoin support corridor without exposing private operational details.
+* **Astro Research Atlas** — [expert research atlas](https://www.bhrigu.io/astro?lang=en). Public map of ephemerides, aspect phases, stations and ingresses, eclipse context, Cosmography, selected research lines, protected ORION boundary, and BTC×Astro research.
+* **Planetary Ephemerides** — [Today](https://www.bhrigu.io/ephemerides?lang=en) · [2026 archive](https://www.bhrigu.io/ephemerides/2026?lang=en) · [semantic-integrity acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/astro-ephemerides-p1-integrity-acceptance.ts). Source-bound public sky data with planetary positions, speed and motion, active major aspects with applying/separating phase, lunar phase, stations/ingresses in the archive, eclipse reference context, and visible provenance.
+* **Native Bitcoin Support** — [public support surface](https://www.bhrigu.io/support?lang=en) · [production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/btc-donation-production-opening-acceptance.ts). An engineered Bitcoin support corridor with bounded admission and verifiable receipt-state proof.
 * **Bitcoin Evidence Commons** — [public repository](https://github.com/AiBhrigu/bitcoin-evidence-commons). The v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
 * **Frey** — [public method](https://www.bhrigu.io/frey?lang=en) · [reading surface](https://www.bhrigu.io/reading?lang=en) · [public-safe repository](https://github.com/AiBhrigu/frey-core-safe).
 * **Machine-readable discovery** — [llms.txt](https://www.bhrigu.io/llms.txt) · [sitemap](https://www.bhrigu.io/sitemap.xml) · [robots.txt](https://www.bhrigu.io/robots.txt).
 * **Economic contact** — [support the public research](https://www.bhrigu.io/support?lang=en) · [request a private Bitcoin research review](https://bitcointalk.org/index.php?topic=5592046.0).
+
+Astro and Ephemerides stand on their own as expert research surfaces. BTC Cosmographer is a separate application corridor that can use selected public Astro evidence without owning the Astro field.
 
 Support and paid research are separate paths: support does not purchase a review, and service payment follows scope acceptance.
 
@@ -68,11 +72,19 @@ These milestones describe achieved states only. They do not imply a future roadm
 
 ## ₿ Native Bitcoin Support
 
-BHRIGU includes an achieved public Bitcoin support corridor with bounded admission and receipt-verification proof. The public surface and acceptance evidence are visible; private operational details and protected infrastructure are not part of this public description.
+> **One public action. One bounded Bitcoin corridor. One verifiable result.**
 
-[Open the support surface](https://www.bhrigu.io/support?lang=en) · [Inspect admission acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-admission-acceptance.ts) · [Inspect production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-donation-production-opening-acceptance.ts)
+| OPEN | RECEIVE | OBSERVE | VERIFY |
+| --- | --- | --- | --- |
+| [Public support surface](https://www.bhrigu.io/support?lang=en) | Bounded session admission + dedicated receiving state | On-chain receipt and confirmation state | [Admission acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/btc-donation-admission-acceptance.ts) · [Production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/btc-donation-production-opening-acceptance.ts) |
 
-The support corridor and the paid Bitcoin research service are distinct economic paths. Support is voluntary and does not purchase a private review.
+BHRIGU treats Bitcoin support as an engineered public corridor rather than a generic donation button. Admission is bounded and replay-safe; admission identifiers are privacy-preserving; receipt state is tied to on-chain observation and confirmation proof; private operational infrastructure remains outside the public surface.
+
+<p align="center">
+  <strong><a href="https://www.bhrigu.io/support?lang=en">Open Native Bitcoin Support →</a></strong>
+</p>
+
+**Economic boundary:** support is voluntary and does not purchase access, entitlement, or a private Bitcoin research review. Paid research is a separate path and follows scope acceptance.
 
 ---
 
