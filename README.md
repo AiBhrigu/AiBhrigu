@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="assets/phi_research_systems_banner_v2_4.svg" width="470" alt="Φ Research Systems — development and research architecture">
-</p>
-
-<p align="center">
-  <strong>AI-native research systems · conversational intelligence · temporal systems · Bitcoin · digital products</strong>
-</p>
-
-<p align="center">
-  Complex knowledge → architecture → working, verifiable systems.
+  <img src="assets/bhrigu_profile_hero_brand_v1.svg" width="760" alt="BHRIGU — Research through time. Φ Research Systems: AI-native research systems, conversational intelligence, temporal systems, Bitcoin and digital products.">
 </p>
 
 ---
@@ -16,9 +8,7 @@
 
 **Φ Research Systems** turns complex knowledge, research, and product ideas into working digital systems.
 
-Our working model combines:
-
-**human systems architecture + AI-assisted engineering orchestration + evidence-driven verification**
+Our working model combines **human systems architecture + AI-assisted engineering orchestration + evidence-driven verification**.
 
 The operator role is **Research & Systems Architect** — focused on research architecture, information structure, product logic, AI orchestration, evaluation, acceptance, and public/protected system boundaries.
 
@@ -26,29 +16,17 @@ This is not presented as conventional software-developer authorship.
 
 ---
 
-## ◈ Capability field
-
-### AI & Intelligence
-
-Conversational AI · specialized chatbots · AI agents · MCP · context and memory architecture · evaluation systems · research interfaces · machine-readable systems.
-
-### Research & Domain Systems
-
-Ephemerides · cosmography · astrology research · temporal and cycle intelligence · Bitcoin · crypto · on-chain evidence · Bitcoin-native interfaces and payment/receipt flows.
-
-### Digital Products & Φ Design
-
-Websites · research portals · product interfaces · information architecture · data visualization · responsive desktop/mobile UX · Φ-centered visual systems.
-
-These domains can operate independently or combine into one architecture.
-
 <p align="center">
-  <strong>KNOWLEDGE → ARCHITECTURE → AI → PRODUCT → VERIFY</strong>
+  <img src="assets/bhrigu_profile_capability_field_brand_v1.svg" width="760" alt="BHRIGU capability field: AI and Intelligence Systems; Temporal and Domain Systems; Digital Products and Φ Design.">
 </p>
+
+**Machine-readable capability summary:** conversational AI, specialized chatbots, AI agents, MCP, context and memory architecture, evaluation systems, ephemerides, cosmography, astrology research, temporal intelligence, Bitcoin and crypto research, on-chain evidence, websites, research portals, product interfaces, information architecture, data visualization, responsive UX, and Φ-centered visual systems.
 
 ---
 
-## ◈ Selected working systems
+<p align="center">
+  <img src="assets/bhrigu_profile_proof_field_brand_v1.svg" width="760" alt="Selected BHRIGU working proof: Bitcoin Temporal Evidence, BTC Cosmographer, Astro Research and Ephemerides, Φ Cosmography and Frey.">
+</p>
 
 ### ₿ BHRIGU Bitcoin Temporal Evidence
 
@@ -82,26 +60,11 @@ Temporal reading, dialogue, and research-navigation method.
 
 ---
 
-<details>
-<summary><strong>◈ Open Research Systems Map</strong></summary>
-
-<br>
-
-<p align="center">
-  <img src="assets/research_systems_map_v2_4.svg" width="520" alt="Research Systems Map — development, research, public proof and protected depth">
-</p>
-
-</details>
-
----
-
 ## ◈ Work with Φ Research Systems
 
 We are open to bounded external projects where **research, architecture, AI, digital product design, and specialized knowledge** need to become one working system.
 
-Relevant fields include:
-
-**AI systems · conversational products · research systems · websites · research portals · Φ design · Bitcoin / crypto interfaces · temporal systems · ephemerides / cosmography applications**
+Relevant fields include **AI systems · conversational products · research systems · websites · research portals · Φ design · Bitcoin / crypto interfaces · temporal systems · ephemerides / cosmography applications**.
 
 <p align="center">
   <strong>QUESTION → SCOPE → ARCHITECTURE → BUILD → VERIFY → DELIVER</strong>
@@ -130,9 +93,7 @@ Support is voluntary and separate from paid research or project work.
 
 ## ◈ Machine-readable public graph
 
-AI agents and machine readers can begin with:
-
-[**llms.txt**](https://www.bhrigu.io/llms.txt) · [**sitemap.xml**](https://www.bhrigu.io/sitemap.xml) · [**robots.txt**](https://www.bhrigu.io/robots.txt)
+AI agents and machine readers can begin with [**llms.txt**](https://www.bhrigu.io/llms.txt) · [**sitemap.xml**](https://www.bhrigu.io/sitemap.xml) · [**robots.txt**](https://www.bhrigu.io/robots.txt).
 
 Machine interpretation should preserve:
 
