@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" role="img" aria-labelledby="title desc">
+<title id="title">BHRIGU selected working proof</title>
+<desc id="desc">Selected BHRIGU public proof objects organized with canonical Evidence Blue, Temporal Violet, Gold, Ivory and Field colors.</desc>
+<rect width="760" height="440" rx="22" fill="#07090C"/>
+<rect x="18" y="18" width="724" height="404" rx="20" fill="none" stroke="#242A32" stroke-width="2"/>
+<text x="42" y="62" fill="#F1EFE9" font-size="27" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Selected working proof</text>
+
+<rect x="42" y="92" width="676" height="72" rx="12" fill="#0C1117" stroke="#62A8D8" stroke-width="1.5"/>
+<text x="66" y="122" fill="#62A8D8" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU Bitcoin Temporal Evidence</text>
+<text x="66" y="148" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">MCP · temporal evidence · deterministic verification · protected-IP boundary</text>
+
+<rect x="42" y="178" width="676" height="72" rx="12" fill="#0C1117" stroke="#62A8D8" stroke-width="1.5"/>
+<text x="66" y="208" fill="#62A8D8" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BTC Cosmographer</text>
+<text x="66" y="234" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Evidence-linked conversational Bitcoin research</text>
+
+<rect x="42" y="264" width="676" height="72" rx="12" fill="#0E0D14" stroke="#9A89D1" stroke-width="1.5"/>
+<text x="66" y="294" fill="#9A89D1" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Astro Research &amp; Ephemerides</text>
+<text x="66" y="320" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Source-bound temporal research · celestial states · provenance</text>
+
+<rect x="42" y="350" width="676" height="52" rx="12" fill="#11100C" stroke="#C8A45A" stroke-width="1.5"/>
+<text x="66" y="383" fill="#C8A45A" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Φ Cosmography · Frey · public research interfaces</text>
+</svg>
