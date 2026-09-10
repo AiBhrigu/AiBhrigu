@@ -145,7 +145,7 @@ This GitHub profile is a curated public layer across the wider **Φ Research Sys
 
 **BHRIGU is one primary public brand, product, research, distribution, and economic surface.** It does not own or collapse the wider system architecture.
 
-**ORION**, **Frey**, **Cosmographer**, **Cosmography**, **Ephemerides**, and other protected/internal system layers remain distinct according to their roles and boundaries.
+The system components remain distinct according to their roles and boundaries: **ORION** is the protected analytical core; **Frey** is the temporal dialogue and reading method; **Cosmographer** is the interpretation and navigation role; **Cosmography** is the research language; and **Ephemerides** is the astronomical computation and provenance line.
 
 Public surfaces expose selected interfaces, system structure, research outputs, acceptance evidence, visual systems, machine-readable contracts, and achieved proof.
 
