@@ -18,7 +18,7 @@ It exposes selected public-safe systems, repositories, evidence, interfaces, and
 **Cosmography** — research language for structure, cycles, and relations.  
 **Ephemerides** — astronomical computation and provenance line.  
 **BHRIGU** — primary public brand, product/research surface, distribution layer, and economic bridge.  
-**AiBhrigu** — GitHub account namespace and public proof surface.
+**AiBhrigu** — GitHub account namespace for selected public identity and proof.
 
 These components are related but not collapsed into one identity. The GitHub account name does not define the system hierarchy.
 
