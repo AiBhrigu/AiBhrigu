@@ -1,111 +1,158 @@
-## Research systems, selected public proof, and public surfaces
-
 <p align="center">
-  <img src="assets/phi_research_systems_banner_v2_4.svg" width="760" alt="Phi Research Systems — mobile-first deterministic Phi-centered systems banner">
+  <img src="assets/bhrigu_profile_hero_brand_v1.svg" width="760" alt="Φ Research Systems — public identity, selected proof and public surfaces">
 </p>
 
-This GitHub profile is the public development-and-research home for selected systems, repositories, evidence, and public surfaces.
+This GitHub profile is a curated public identity and proof layer across the wider **Φ Research Systems** field.
 
-It exposes public-safe structure and achieved proof while keeping private infrastructure, internal engine pathways, unpublished research, and patent-sensitive mechanics outside the public boundary.
+It exposes selected public-safe systems, repositories, evidence, interfaces, and achieved proof while keeping protected analytical mechanisms, private infrastructure, unpublished research, and patent-sensitive mechanics outside the public boundary.
+
+---
+
+## ◈ System hierarchy
+
+**Φ Research Systems** — top-level research and systems field.  
+**Φ** — structural field and organizing principle.  
+**ORION** — protected analytical core.  
+**Frey** — temporal dialogue and reading method.  
+**Cosmographer** — interpretation and navigation role.  
+**Cosmography** — research language for structure, cycles, and relations.  
+**Ephemerides** — astronomical computation and provenance line.  
+**BHRIGU** — primary public brand, product/research surface, distribution layer, and economic bridge.  
+**AiBhrigu** — GitHub account namespace for selected public identity and proof.
+
+These components are related but not collapsed into one identity. The GitHub account name does not define the system hierarchy.
+
+---
+
+## ◈ Working model
+
+The operator role is **Research & Systems Architect** — focused on research architecture, information structure, product logic, AI orchestration, evaluation, acceptance, public/protected boundaries, and visual system coherence.
+
+Engineering execution is AI-assisted and verification-driven. Public system capability is not presented as conventional software-developer authorship.
 
 <p align="center">
-  <img src="assets/research_systems_map_v2_4.svg" width="760" alt="Research Systems Map — mobile-first fact-locked development, public outputs, protected research, and 2026 milestones">
+  <strong>KNOWLEDGE → ARCHITECTURE → AI → PRODUCT → VERIFY</strong>
 </p>
 
-**Visual key:** cyan = public / method · blue = analytical / evidence · periwinkle = protected research · violet = achieved milestone.
-
 ---
-
-## 🔎 Public proof & entry points
-
-* **BTC Cosmographer** — [public Bitcoin surface](https://www.bhrigu.io/crypto-astro/btc?lang=en) · [Cosmographer overview](https://www.bhrigu.io/cosmographer?lang=en) · [acceptance contract](https://github.com/AiBhrigu/bhrigu-portal/blob/01bf14212124558a946d2a2cf4ad44c2d6aeee8c/tests/btc-clean-chat-v1-acceptance.ts).
-* **Astro Research Atlas** — [expert research atlas](https://www.bhrigu.io/astro?lang=en). Public map of ephemerides, aspect phases, stations and ingresses, eclipse context, Cosmography, selected research lines, protected ORION boundary, and BTC×Astro research.
-* **Planetary Ephemerides** — [Today](https://www.bhrigu.io/ephemerides?lang=en) · [2026 archive](https://www.bhrigu.io/ephemerides/2026?lang=en) · [semantic-integrity acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/astro-ephemerides-p1-integrity-acceptance.ts). Source-bound public sky data with planetary positions, speed and motion, active major aspects with applying/separating phase, lunar phase, stations/ingresses in the archive, eclipse reference context, and visible provenance.
-* **₿ Native Bitcoin Support** — [public support surface](https://www.bhrigu.io/support?lang=en) · [production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/btc-donation-production-opening-acceptance.ts). An engineered Bitcoin support corridor with bounded admission and verifiable receipt-state proof.
-* **Bitcoin Evidence Commons** — [public repository](https://github.com/AiBhrigu/bitcoin-evidence-commons). The v0.1.0 public bootstrap is an achieved artifact, not a commitment to continued development.
-* **Frey** — [public method](https://www.bhrigu.io/frey?lang=en) · [reading surface](https://www.bhrigu.io/reading?lang=en) · [public-safe repository](https://github.com/AiBhrigu/frey-core-safe).
-* **Machine-readable discovery** — [llms.txt](https://www.bhrigu.io/llms.txt) · [sitemap](https://www.bhrigu.io/sitemap.xml) · [robots.txt](https://www.bhrigu.io/robots.txt).
-* **Economic contact** — [support the public research](https://www.bhrigu.io/support?lang=en) · [request a private Bitcoin research review](https://bitcointalk.org/index.php?topic=5592046.0).
-
-Astro and Ephemerides stand on their own as expert research surfaces. BTC Cosmographer is a separate application corridor that can use selected public Astro evidence without owning the Astro field.
-
-Support and paid research are separate paths: support does not purchase a review, and service payment follows scope acceptance.
-
-GitHub is used here as a **source and proof surface**, not as a mirror of private implementation.
-
----
-
-## 🟦 Development & Research
-
-* **ORION** — protected analytical depth.
-* **Frey** — temporal reading and dialogue method.
-* **Cosmography** — research language for structure, cycles, and relations.
-* **Cosmographer** — interpretation and navigation role.
-* **Ephemerides** — astronomical computation and provenance line; public use is bounded to published or explicitly authorized evidence.
-* **X4** — protected research line.
-* **Cosmography Dynamical Engine** — protected research line.
-
-These names describe existing development and research lines at a public-safe level. They do not imply that protected implementation, internal mechanics, or unpublished assets are public.
-
----
-
-## 🟪 Selected 2026 Milestones
-
-* **BTC Cosmographer** — first proven public Bitcoin corridor for evidence-linked Bitcoin intelligence.
-* **Market Cosmographer** — current primary public product frame on BHRIGU.
-* **Bitcoin Evidence Commons v0.1.0** — achieved public bootstrap with 12 independently reverified evidence records and 24 deterministic benchmark cases.
-* **Frey** — public method, reading, and dialogue surfaces.
-
-These milestones describe achieved states only. They do not imply a future roadmap, grant continuation, or release commitment.
-
----
-
-## 📦 Selected Public Repositories
-
-* [**bhrigu-portal**](https://github.com/AiBhrigu/bhrigu-portal) — public bridge and product/research surface for BHRIGU.
-* [**frey-core-safe**](https://github.com/AiBhrigu/frey-core-safe) — controlled public interface-layer repository for Frey.
-* [**phi-cosmography-canon**](https://github.com/AiBhrigu/phi-cosmography-canon) — canonical doctrine, structural invariants, and method layer.
-* [**phi-cosmography-open**](https://github.com/AiBhrigu/phi-cosmography-open) — open visual atlas and selected research-facing window.
-* [**bitcoin-evidence-commons**](https://github.com/AiBhrigu/bitcoin-evidence-commons) — standalone public Bitcoin evidence toolkit and dataset; existing v0.1.0 public bootstrap only.
-
----
-
-## ₿ Native Bitcoin Support
-
-> **₿ Bitcoin-native support, engineered as a verifiable public corridor**
->
-> **OPEN → RECEIVE → OBSERVE → VERIFY**
->
-> One public action. One bounded Bitcoin corridor. One verifiable result.
-
-| OPEN | RECEIVE | OBSERVE | VERIFY |
-| --- | --- | --- | --- |
-| [Public support surface](https://www.bhrigu.io/support?lang=en) | Bounded session admission + dedicated receiving state | On-chain receipt and confirmation state | [Admission acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/btc-donation-admission-acceptance.ts) · [Production-opening acceptance](https://github.com/AiBhrigu/bhrigu-portal/blob/42a6cf4f6a9248dfd5a4f7b8f0ce8df2f16b9912/tests/btc-donation-production-opening-acceptance.ts) |
-
-BHRIGU treats Bitcoin support as an engineered public corridor rather than a generic donation button. Admission is bounded and replay-safe; admission identifiers are privacy-preserving; receipt state is tied to on-chain observation and confirmation proof; private operational infrastructure remains outside the public surface.
 
 <p align="center">
-  <strong>₿ <a href="https://www.bhrigu.io/support?lang=en">Open Native Bitcoin Support →</a></strong>
+  <img src="assets/bhrigu_profile_capability_field_brand_v1.svg" width="760" alt="Φ Research Systems capability field">
 </p>
 
-**Economic boundary:** support is voluntary and does not purchase access, entitlement, or a private Bitcoin research review. Paid research is a separate path and follows scope acceptance.
+### AI & Intelligence Systems
+
+Conversational AI · specialized chatbots · AI agents · MCP · context and memory architecture · evaluation systems · research interfaces · machine-readable systems.
+
+### Temporal & Domain Systems
+
+Ephemerides · cosmography · astrology research · temporal and cycle intelligence · Bitcoin · crypto · on-chain evidence · state · change · memory · uncertainty.
+
+### Digital Products & Φ Design
+
+Websites · research portals · product interfaces · information architecture · data visualization · responsive desktop/mobile UX · calm analytical visual systems.
+
+These capabilities belong to the wider Φ Research Systems field. BHRIGU may expose selected capabilities publicly, but does not define or own the wider system architecture.
 
 ---
 
-## 🤖 Machine-readable public graph
+<p align="center">
+  <img src="assets/bhrigu_profile_proof_field_brand_v1.svg" width="760" alt="Φ Research Systems selected public working proof">
+</p>
 
-For AI agents and machine readers, start with [**llms.txt**](https://www.bhrigu.io/llms.txt). It defines the current public graph, canonical RU/EN surfaces, evidence boundaries, and protected-research boundary. Use the [sitemap](https://www.bhrigu.io/sitemap.xml) for the indexable route graph.
+## ◈ Selected public working proof
 
-Machine reading should preserve this order:
+### BHRIGU Bitcoin Temporal Evidence
 
-**Source / raw data → observation → bounded interpretation → uncertainty / boundary → human decision.**
+A bounded read-only Bitcoin research capability for AI agents with MCP interfaces, temporal evidence, deterministic verification, explicit failure contracts, and protected-IP boundaries.
 
-The BTC Clean Chat dialogue is session-local and noindex; it is a user dialogue surface, not an agent API and not durable published evidence. Public descriptions must not be treated as evidence of protected mechanisms.
+[Repository →](https://github.com/AiBhrigu/bhrigu-bitcoin-research-state-api)
+
+### BTC Cosmographer
+
+Evidence-linked conversational Bitcoin research combining current state, structured evidence, temporal context, bounded interpretation, and dialogue.
+
+[Open BTC Cosmographer →](https://www.bhrigu.io/crypto-astro/btc?lang=en)
+
+### Astro Research & Ephemerides
+
+Expert public research surfaces for planetary ephemerides, celestial states, aspect phases, stations, ingresses, eclipse context, temporal relations, and cosmography.
+
+[Astro Research Atlas →](https://www.bhrigu.io/astro?lang=en) · [Ephemerides →](https://www.bhrigu.io/ephemerides?lang=en)
+
+### Φ Cosmography
+
+A visual research system exploring Solar-System structure through ephemerides, cosmographic geometry, structural relations, and Φ-centered visual architecture.
+
+[Public Φ-Cosmography →](https://github.com/AiBhrigu/phi-cosmography-open)
+
+### Frey
+
+Temporal reading, dialogue, and research-navigation method.
+
+[Public method →](https://www.bhrigu.io/frey?lang=en) · [Repository →](https://github.com/AiBhrigu/frey-core-safe)
 
 ---
 
-## 🛡️ Public Boundary
+## ◈ Work with Φ Research Systems
 
-This profile is a curated public layer across a broader development and research house. **BHRIGU is a public product and research surface, not the engine itself.**
+External projects may combine research, architecture, AI, digital product design, and specialized domain knowledge into one bounded working system.
 
-Public repositories expose selected system structure, interface logic, canon, achieved evidence, and controlled research visibility. Core implementation pathways, private operational infrastructure, unpublished research, proprietary analytical mechanics, and patent-sensitive mechanisms remain outside the public boundary.
+Relevant fields include **AI systems · conversational products · research systems · websites · research portals · Φ design · Bitcoin / crypto interfaces · temporal systems · ephemerides / cosmography applications**.
+
+Public project inquiries are routed through the BHRIGU economic bridge:
+
+**Project inquiries:**  
+[bhrigu-revenue@agentmail.to](mailto:bhrigu-revenue@agentmail.to)
+
+Paid work, research commissions, grants, bounties, and partnership inquiries follow scope review before any commitment.
+
+---
+
+## ₿ BHRIGU Native Bitcoin Support
+
+BHRIGU maintains a bounded Bitcoin-native support corridor with verifiable receipt-state proof.
+
+<p align="center">
+  <strong>OPEN → RECEIVE → OBSERVE → VERIFY</strong>
+</p>
+
+[Open Bitcoin Support →](https://www.bhrigu.io/support?lang=en)
+
+Support is voluntary and separate from paid research or project work.
+
+---
+
+## ◈ Machine-readable public graph
+
+AI agents and machine readers can begin with:
+
+[**llms.txt**](https://www.bhrigu.io/llms.txt) · [**sitemap.xml**](https://www.bhrigu.io/sitemap.xml) · [**robots.txt**](https://www.bhrigu.io/robots.txt)
+
+Machine interpretation should preserve:
+
+<p align="center">
+  <strong>SOURCE → OBSERVATION → BOUNDED INTERPRETATION → UNCERTAINTY → HUMAN DECISION</strong>
+</p>
+
+Public descriptions are not evidence of protected mechanisms.
+
+---
+
+## ◈ Public boundary
+
+This GitHub profile is a curated public layer across the wider **Φ Research Systems** field.
+
+**BHRIGU is one primary public brand, product, research, distribution, and economic surface.** It does not own or collapse the wider system architecture.
+
+The system components remain distinct according to their roles and boundaries: **ORION** is the protected analytical core; **Frey** is the temporal dialogue and reading method; **Cosmographer** is the interpretation and navigation role; **Cosmography** is the research language; and **Ephemerides** is the astronomical computation and provenance line.
+
+Public surfaces expose selected interfaces, system structure, research outputs, acceptance evidence, visual systems, machine-readable contracts, and achieved proof.
+
+Protected layers remain outside the public boundary:
+
+**private infrastructure · internal engine pathways · private prompts · private evaluators · unpublished research · proprietary analytical mechanics · credentials · patent-sensitive mechanisms**
+
+<p align="center">
+  <strong>EXPOSE MEANING · PROVE CAPABILITY · PROTECT MECHANISM</strong>
+</p>

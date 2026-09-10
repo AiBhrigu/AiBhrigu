@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="476" viewBox="0 0 760 476" role="img" aria-labelledby="title desc">
+<title id="title">Φ Research Systems — selected public working proof</title>
+<desc id="desc">Selected public working proof across the wider Φ Research Systems field, using the accepted BHRIGU visual palette without implying BHRIGU ownership of all systems.</desc>
+<rect width="760" height="476" rx="22" fill="#07090C"/>
+<rect x="18" y="18" width="724" height="440" rx="20" fill="none" stroke="#242A32" stroke-width="2"/>
+<text x="42" y="68" fill="#F1EFE9" font-size="31" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Φ Research Systems · Selected public proof</text>
+
+<rect x="42" y="104" width="676" height="84" rx="12" fill="#0C1117" stroke="#62A8D8" stroke-width="1.5"/>
+<text x="66" y="138" fill="#62A8D8" font-size="24" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU Bitcoin Temporal Evidence</text>
+<text x="66" y="168" fill="#A9A79F" font-size="20" font-family="Inter, ui-sans-serif, system-ui, sans-serif">MCP · temporal evidence · deterministic verification</text>
+
+<rect x="42" y="202" width="676" height="84" rx="12" fill="#0C1117" stroke="#62A8D8" stroke-width="1.5"/>
+<text x="66" y="236" fill="#62A8D8" font-size="24" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BTC Cosmographer</text>
+<text x="66" y="266" fill="#A9A79F" font-size="20" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Evidence-linked conversational Bitcoin research</text>
+
+<rect x="42" y="300" width="676" height="84" rx="12" fill="#0E0D14" stroke="#9A89D1" stroke-width="1.5"/>
+<text x="66" y="334" fill="#9A89D1" font-size="24" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Astro Research &amp; Ephemerides</text>
+<text x="66" y="364" fill="#A9A79F" font-size="20" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Temporal research · celestial states · provenance</text>
+
+<rect x="42" y="398" width="676" height="42" rx="12" fill="#11100C" stroke="#C8A45A" stroke-width="1.5"/>
+<text x="66" y="426" fill="#C8A45A" font-size="22" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Φ Cosmography · Frey · public research interfaces</text>
+</svg>

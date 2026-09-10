@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" role="img" aria-labelledby="title desc">
+<title id="title">Φ Research Systems — public GitHub identity</title>
+<desc id="desc">Φ Research Systems as the primary system identity, with BHRIGU shown as a subordinate public brand, product, research, distribution, and economic surface. Uses the accepted BHRIGU visual palette.</desc>
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#15191F" stroke-width="1"/></pattern>
+</defs>
+<rect width="760" height="380" rx="22" fill="#07090C"/>
+<rect width="760" height="380" rx="22" fill="url(#grid)" opacity="0.50"/>
+<rect x="18" y="18" width="724" height="344" rx="20" fill="none" stroke="#242A32" stroke-width="2"/>
+<text x="42" y="66" fill="#62A8D8" font-size="20" font-weight="600" letter-spacing="1.5" font-family="Inter, ui-sans-serif, system-ui, sans-serif">PUBLIC IDENTITY · SELECTED PROOF</text>
+<text x="42" y="148" fill="#C8A45A" font-size="56" font-weight="400" letter-spacing="-2.2" font-family="Georgia, 'Times New Roman', serif">Φ Research Systems</text>
+<text x="42" y="202" fill="#F1EFE9" font-size="23" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI · research · temporal systems · Bitcoin</text>
+<text x="42" y="238" fill="#F1EFE9" font-size="23" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">conversational systems · digital products · Φ design</text>
+<line x1="42" y1="278" x2="718" y2="278" stroke="#C8A45A" stroke-width="2"/>
+<text x="42" y="320" fill="#9A89D1" font-size="22" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU</text>
+<text x="136" y="320" fill="#F1EFE9" font-size="20" font-family="Inter, ui-sans-serif, system-ui, sans-serif">PUBLIC BRAND · PRODUCT / RESEARCH SURFACE</text>
+<text x="136" y="347" fill="#A9A79F" font-size="18" font-family="Inter, ui-sans-serif, system-ui, sans-serif">distribution · economic bridge</text>
+</svg>
