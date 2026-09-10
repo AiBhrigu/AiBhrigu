@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="2100" viewBox="0 0 760 2100" role="img" aria-labelledby="title desc">
+  <title id="title">BHRIGU GitHub public profile — Brand ID preview</title>
+  <desc id="desc">Visual preview using BHRIGU Field, Gold, Evidence Blue, Temporal Violet, and Ivory brand tokens.</desc>
+
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#15191F" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="760" height="2100" fill="#07090C"/>
+  <rect width="760" height="2100" fill="url(#grid)" opacity="0.52"/>
+  <rect x="18" y="18" width="724" height="2064" rx="22" fill="none" stroke="#242A32" stroke-width="2"/>
+
+  <!-- HERO -->
+  <text x="42" y="68" fill="#62A8D8" font-size="14" font-weight="600" letter-spacing="2" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU · PUBLIC PROFILE PREVIEW</text>
+  <text x="42" y="142" fill="#C8A45A" font-size="55" font-weight="400" letter-spacing="-2.2" font-family="Georgia, 'Times New Roman', serif">Research through time.</text>
+  <text x="42" y="190" fill="#F1EFE9" font-size="23" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Φ Research Systems</text>
+  <text x="42" y="224" fill="#A9A79F" font-size="17" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI-native research systems · conversational intelligence · temporal systems</text>
+  <text x="42" y="252" fill="#A9A79F" font-size="17" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Bitcoin · digital products · evidence-driven verification</text>
+  <line x1="42" y1="286" x2="718" y2="286" stroke="#C8A45A" stroke-width="2"/>
+
+  <!-- OPERATOR -->
+  <text x="42" y="338" fill="#F1EFE9" font-size="25" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Research &amp; Systems Architect</text>
+  <text x="42" y="372" fill="#A9A79F" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Human architecture + AI-assisted engineering orchestration + deterministic acceptance.</text>
+  <text x="42" y="400" fill="#A9A79F" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Not presented as conventional software-developer authorship.</text>
+
+  <!-- CAPABILITIES -->
+  <text x="42" y="470" fill="#F1EFE9" font-size="26" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Capability field</text>
+
+  <rect x="42" y="502" width="676" height="186" rx="16" fill="#0C1117" stroke="#62A8D8" stroke-width="2"/>
+  <rect x="42" y="502" width="6" height="186" rx="3" fill="#62A8D8"/>
+  <text x="70" y="544" fill="#62A8D8" font-size="22" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI &amp; Intelligence Systems</text>
+  <text x="70" y="580" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Conversational AI · specialized chatbots · AI agents · MCP</text>
+  <text x="70" y="610" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">context &amp; memory architecture · evaluation systems</text>
+  <text x="70" y="640" fill="#A9A79F" font-size="15" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Research interfaces · machine-readable systems · evidence contracts</text>
+
+  <rect x="42" y="716" width="676" height="186" rx="16" fill="#0C1016" stroke="#9A89D1" stroke-width="2"/>
+  <rect x="42" y="716" width="6" height="186" rx="3" fill="#9A89D1"/>
+  <text x="70" y="758" fill="#9A89D1" font-size="22" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Temporal &amp; Domain Systems</text>
+  <text x="70" y="794" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Ephemerides · cosmography · astrology research · temporal intelligence</text>
+  <text x="70" y="824" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Bitcoin · crypto · on-chain evidence · research state &amp; memory</text>
+  <text x="70" y="854" fill="#A9A79F" font-size="15" font-family="Inter, ui-sans-serif, system-ui, sans-serif">State · change · source · timestamp · baseline · checkpoint · uncertainty</text>
+
+  <rect x="42" y="930" width="676" height="186" rx="16" fill="#11100C" stroke="#C8A45A" stroke-width="2"/>
+  <rect x="42" y="930" width="6" height="186" rx="3" fill="#C8A45A"/>
+  <text x="70" y="972" fill="#C8A45A" font-size="22" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Digital Products &amp; Φ Design</text>
+  <text x="70" y="1008" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Websites · research portals · product interfaces · information architecture</text>
+  <text x="70" y="1038" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">data visualization · responsive desktop/mobile UX · visual systems</text>
+  <text x="70" y="1068" fill="#A9A79F" font-size="15" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Calm · precise · analytical · diagrammatic · restrained</text>
+
+  <!-- FLOW -->
+  <text x="42" y="1188" fill="#F1EFE9" font-size="26" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Working model</text>
+  <line x1="78" y1="1248" x2="682" y2="1248" stroke="#3A3F45" stroke-width="2"/>
+  <circle cx="78" cy="1248" r="8" fill="#C8A45A"/>
+  <circle cx="229" cy="1248" r="8" fill="#62A8D8"/>
+  <circle cx="380" cy="1248" r="8" fill="#9A89D1"/>
+  <circle cx="531" cy="1248" r="8" fill="#62A8D8"/>
+  <circle cx="682" cy="1248" r="8" fill="#C8A45A"/>
+  <text x="78" y="1284" fill="#F1EFE9" font-size="13" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif">KNOWLEDGE</text>
+  <text x="229" y="1284" fill="#F1EFE9" font-size="13" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif">ARCHITECTURE</text>
+  <text x="380" y="1284" fill="#F1EFE9" font-size="13" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI</text>
+  <text x="531" y="1284" fill="#F1EFE9" font-size="13" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif">PRODUCT</text>
+  <text x="682" y="1284" fill="#F1EFE9" font-size="13" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif">VERIFY</text>
+
+  <!-- PROOF -->
+  <text x="42" y="1362" fill="#F1EFE9" font-size="26" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Selected working proof</text>
+
+  <rect x="42" y="1392" width="676" height="74" rx="12" fill="#0C1117" stroke="#62A8D8" stroke-width="1.5"/>
+  <text x="66" y="1423" fill="#62A8D8" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU Bitcoin Temporal Evidence</text>
+  <text x="66" y="1450" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">MCP · temporal evidence · deterministic verification · protected-IP boundary</text>
+
+  <rect x="42" y="1480" width="676" height="74" rx="12" fill="#0C1117" stroke="#62A8D8" stroke-width="1.5"/>
+  <text x="66" y="1511" fill="#62A8D8" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BTC Cosmographer</text>
+  <text x="66" y="1538" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Evidence-linked conversational Bitcoin research</text>
+
+  <rect x="42" y="1568" width="676" height="74" rx="12" fill="#0E0D14" stroke="#9A89D1" stroke-width="1.5"/>
+  <text x="66" y="1599" fill="#9A89D1" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Astro Research &amp; Ephemerides</text>
+  <text x="66" y="1626" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Source-bound temporal research · celestial states · provenance</text>
+
+  <rect x="42" y="1656" width="676" height="74" rx="12" fill="#11100C" stroke="#C8A45A" stroke-width="1.5"/>
+  <text x="66" y="1687" fill="#C8A45A" font-size="18" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Φ Cosmography</text>
+  <text x="66" y="1714" fill="#A9A79F" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Visual research atlas · geometric systems · Φ-centered design</text>
+
+  <!-- ECONOMIC EXIT -->
+  <rect x="42" y="1786" width="676" height="180" rx="18" fill="#11100C" stroke="#C8A45A" stroke-width="2"/>
+  <text x="70" y="1830" fill="#C8A45A" font-size="24" font-weight="700" font-family="Georgia, 'Times New Roman', serif">Work with Φ Research Systems</text>
+  <text x="70" y="1868" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI systems · research systems · websites · conversational products</text>
+  <text x="70" y="1898" fill="#F1EFE9" font-size="16" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Bitcoin / crypto interfaces · temporal systems · Φ design</text>
+  <text x="70" y="1934" fill="#62A8D8" font-size="16" font-weight="700" font-family="Inter, ui-sans-serif, system-ui, sans-serif">bhrigu-revenue@agentmail.to</text>
+
+  <!-- BOUNDARY -->
+  <line x1="42" y1="2012" x2="718" y2="2012" stroke="#242A32" stroke-width="1.5"/>
+  <text x="42" y="2048" fill="#A9A79F" font-size="13" font-family="Inter, ui-sans-serif, system-ui, sans-serif">PUBLIC BOUNDARY · expose meaning · prove capability · protect mechanism</text>
+  <text x="718" y="2048" fill="#C8A45A" font-size="13" text-anchor="end" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU · v0.1 preview</text>
+</svg>
