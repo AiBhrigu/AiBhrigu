@@ -52,7 +52,7 @@ Ephemerides · cosmography · astrology research · temporal and cycle intellige
 
 Websites · research portals · product interfaces · information architecture · data visualization · responsive desktop/mobile UX · calm analytical visual systems.
 
-These capabilities belong to the wider Φ Research Systems field and may surface publicly through BHRIGU or other explicitly bounded public outputs.
+These capabilities belong to the wider Φ Research Systems field. BHRIGU may expose selected capabilities publicly, but does not define or own the wider system architecture.
 
 ---
 
@@ -143,9 +143,9 @@ Public descriptions are not evidence of protected mechanisms.
 
 This GitHub profile is a curated public layer across the wider **Φ Research Systems** field.
 
-**BHRIGU is one primary public brand, product, and research surface.** It does not own or collapse the wider system architecture.
+**BHRIGU is one primary public brand, product, research, distribution, and economic surface.** It does not own or collapse the wider system architecture.
 
-**ORION** and other protected/internal system layers remain distinct and bounded.
+**ORION**, **Frey**, **Cosmographer**, **Cosmography**, **Ephemerides**, and other protected/internal system layers remain distinct according to their roles and boundaries.
 
 Public surfaces expose selected interfaces, system structure, research outputs, acceptance evidence, visual systems, machine-readable contracts, and achieved proof.
 
