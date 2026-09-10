@@ -1,22 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
-<title id="title">BHRIGU — Research through time</title>
-<desc id="desc">BHRIGU public GitHub profile hero using canonical Field, Gold, Evidence Blue, Temporal Violet, and Ivory brand colors.</desc>
+<title id="title">Φ Research Systems — public GitHub identity</title>
+<desc id="desc">Φ Research Systems as the primary system identity, with BHRIGU shown as a subordinate public brand, product, and research surface. Uses the accepted BHRIGU visual palette.</desc>
 <defs>
   <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#15191F" stroke-width="1"/></pattern>
 </defs>
 <rect width="760" height="360" rx="22" fill="#07090C"/>
 <rect width="760" height="360" rx="22" fill="url(#grid)" opacity="0.50"/>
 <rect x="18" y="18" width="724" height="324" rx="20" fill="none" stroke="#242A32" stroke-width="2"/>
-<text x="42" y="66" fill="#62A8D8" font-size="14" font-weight="600" letter-spacing="2" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU · Φ RESEARCH SYSTEMS</text>
-<text x="42" y="146" fill="#C8A45A" font-size="55" font-weight="400" letter-spacing="-2.2" font-family="Georgia, 'Times New Roman', serif">Research through time.</text>
-<text x="42" y="196" fill="#F1EFE9" font-size="20" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI-native research systems · conversational intelligence</text>
-<text x="42" y="228" fill="#F1EFE9" font-size="20" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">temporal systems · Bitcoin · digital products</text>
+<text x="42" y="68" fill="#62A8D8" font-size="14" font-weight="600" letter-spacing="2" font-family="Inter, ui-sans-serif, system-ui, sans-serif">PUBLIC IDENTITY · SELECTED PROOF · PUBLIC SURFACES</text>
+<text x="42" y="148" fill="#C8A45A" font-size="55" font-weight="400" letter-spacing="-2.2" font-family="Georgia, 'Times New Roman', serif">Φ Research Systems</text>
+<text x="42" y="198" fill="#F1EFE9" font-size="20" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">AI-native research systems · conversational intelligence</text>
+<text x="42" y="230" fill="#F1EFE9" font-size="20" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">temporal systems · Bitcoin · digital products</text>
 <line x1="42" y1="266" x2="718" y2="266" stroke="#C8A45A" stroke-width="2"/>
-<circle cx="50" cy="304" r="5" fill="#62A8D8"/>
-<text x="66" y="310" fill="#F1EFE9" font-size="15" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Evidence</text>
-<circle cx="164" cy="304" r="5" fill="#9A89D1"/>
-<text x="180" y="310" fill="#F1EFE9" font-size="15" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Time</text>
-<circle cx="246" cy="304" r="5" fill="#C8A45A"/>
-<text x="262" y="310" fill="#F1EFE9" font-size="15" font-family="Inter, ui-sans-serif, system-ui, sans-serif">Architecture</text>
-<text x="718" y="310" fill="#8B8A84" font-size="12" text-anchor="end" font-family="Inter, ui-sans-serif, system-ui, sans-serif">EXPOSE MEANING · PROTECT MECHANISM</text>
+<text x="42" y="306" fill="#9A89D1" font-size="14" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, sans-serif">BHRIGU</text>
+<text x="112" y="306" fill="#F1EFE9" font-size="14" font-family="Inter, ui-sans-serif, system-ui, sans-serif">public brand · product surface · research surface · economic bridge</text>
+<text x="718" y="326" fill="#8B8A84" font-size="11" text-anchor="end" font-family="Inter, ui-sans-serif, system-ui, sans-serif">EXPOSE MEANING · PROTECT MECHANISM</text>
 </svg>
