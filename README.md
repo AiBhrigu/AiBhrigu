@@ -96,6 +96,10 @@ Temporal reading, dialogue, and research-navigation method.
 
 ## ◈ Work with Φ Research Systems
 
+**Fixed commercial object:** [Φ External Systems Recon — USD 300 →](https://www.bhrigu.io/access?lang=en)
+
+One bounded, read-only review of an AI or research system: system map, 3 highest-impact findings, evidence, and an exact repair blueprint. Implementation is not included.
+
 External projects may combine research, architecture, AI, digital product design, and specialized domain knowledge into one bounded working system.
 
 Relevant fields include **AI systems · conversational products · research systems · websites · research portals · Φ design · Bitcoin / crypto interfaces · temporal systems · ephemerides / cosmography applications**.
