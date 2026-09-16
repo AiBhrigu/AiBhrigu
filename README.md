@@ -94,6 +94,48 @@ Temporal reading, dialogue, and research-navigation method.
 
 ---
 
+## ◈ External proof field
+
+<p align="center">
+  <strong>CAPABILITY → EVIDENCE → VERIFICATION → REUSE</strong>
+</p>
+
+Public hackathon, agent, MCP, and reproducibility work is treated here as **proof of reusable capability**, not as a claim over protected mechanisms.
+
+### Temporal Evidence · Agent Memory
+
+Precommit future observation boundaries, preserve locked past state, compare later reality without retroactive rewriting, and expose the result through bounded read-only agent/MCP interfaces.
+
+**Proof surface:**  
+[BHRIGU Bitcoin Temporal Evidence →](https://github.com/AiBhrigu/bhrigu-bitcoin-research-state-api) · [X-Agent MCP submission →](https://github.com/xagentAI/xagt-plugin/pull/48)
+
+### External Signal · Evidence Interpretation
+
+Consume an external strategy or agent signal together with its supporting evidence, then return structured supports, contradictions, limitations, source status, and provenance without creating a second decision signal.
+
+**Proof surface:**  
+[BHRIGU OlaXBT Strategy Evidence Agent →](https://github.com/xagentAI/xagt-plugin/pull/55)
+
+### Market Time · Protocol Time
+
+Bind live market state to slower protocol state and declared temporal windows while preserving source, freshness, uncertainty, and a strict research-only boundary.
+
+**Proof surface:**  
+[Binance Agent OS Track A capsule →](https://github.com/AiBhrigu/bhrigu-binance-agent-os-track-a)
+
+### Reproducible Evidence · Evaluation
+
+Build version-pinned evidence records, deterministic validators, benchmark cases, reproducible manifests, and explicit source-authority boundaries for research systems.
+
+**Proof surface:**  
+[Bitcoin Evidence Commons →](https://github.com/AiBhrigu/bitcoin-evidence-commons)
+
+<p align="center">
+  <strong>EXPOSE PROOF · PRESERVE BOUNDARY · REUSE CAPABILITY</strong>
+</p>
+
+---
+
 ## ◈ Work with Φ Research Systems
 
 **Fixed commercial object:** [Φ External Systems Recon — USD 300 →](https://www.bhrigu.io/access?lang=en)
