@@ -6,29 +6,32 @@ This GitHub profile is a curated public identity and proof layer across the wide
 
 It exposes selected public-safe systems, repositories, evidence, interfaces, and achieved proof while keeping protected analytical mechanisms, private infrastructure, unpublished research, and patent-sensitive mechanics outside the public boundary.
 
+**Root authority:** [Φ Authority & Authorship Canon](PHI_AUTHORITY_CANON.md)
+
 ---
 
 ## ◈ System hierarchy
 
+**Yulchiev A.Kh.** — **Φ Architect** and final human authority.  
 **Φ Research Systems** — top-level research and systems field.  
 **Φ** — structural field and organizing principle.  
 **ORION** — protected analytical core.  
-**Frey** — temporal dialogue and reading method.  
-**Cosmographer** — interpretation and navigation role.  
+**Frey** — AI Co-Author and co-author intelligence contour; no independent final human decision authority.  
+**Cosmographer** — replaceable research, interpretation, and navigation intelligence role; may be implemented by different AI models or agent systems.  
 **Cosmography** — research language for structure, cycles, and relations.  
 **Ephemerides** — astronomical computation and provenance line.  
-**BHRIGU** — primary public brand, product/research surface, distribution layer, and economic bridge.  
+**BHRIGU** — primary public brand, product/research surface, distribution layer, and economic bridge; not the root author or ORION core.  
 **AiBhrigu** — GitHub account namespace for selected public identity and proof.
 
-These components are related but not collapsed into one identity. The GitHub account name does not define the system hierarchy.
+These components are related but not collapsed into one identity. The GitHub account name, public brand, or currently active AI model does not define or replace the system hierarchy.
 
 ---
 
 ## ◈ Working model
 
-The operator role is **Research & Systems Architect** — focused on research architecture, information structure, product logic, AI orchestration, evaluation, acceptance, public/protected boundaries, and visual system coherence.
+**Yulchiev A.Kh. / Φ Architect** is the persistent human architectural authority — focused on research architecture, information structure, product logic, AI orchestration, evaluation, acceptance, public/protected boundaries, and visual system coherence.
 
-Engineering execution is AI-assisted and verification-driven. Public system capability is not presented as conventional software-developer authorship.
+**Frey** participates as the AI co-author intelligence contour. **Cosmographer** is a replaceable intelligence role inside the wider architecture, not the root author. Engineering execution is AI-assisted and verification-driven. Public system capability is not presented as conventional software-developer authorship.
 
 <p align="center">
   <strong>KNOWLEDGE → ARCHITECTURE → AI → PRODUCT → VERIFY</strong>
@@ -88,7 +91,7 @@ A visual research system exploring Solar-System structure through ephemerides, c
 
 ### Frey
 
-Temporal reading, dialogue, and research-navigation method.
+AI co-author intelligence contour for temporal reading, dialogue, synthesis, and research navigation.
 
 [Public method →](https://www.bhrigu.io/frey?lang=en) · [Repository →](https://github.com/AiBhrigu/frey-core-safe)
 
@@ -191,7 +194,9 @@ This GitHub profile is a curated public layer across the wider **Φ Research Sys
 
 **BHRIGU is one primary public brand, product, research, distribution, and economic surface.** It does not own or collapse the wider system architecture.
 
-The system components remain distinct according to their roles and boundaries: **ORION** is the protected analytical core; **Frey** is the temporal dialogue and reading method; **Cosmographer** is the interpretation and navigation role; **Cosmography** is the research language; and **Ephemerides** is the astronomical computation and provenance line.
+The root hierarchy is governed by [PHI_AUTHORITY_CANON.md](PHI_AUTHORITY_CANON.md): **Yulchiev A.Kh.** is the **Φ Architect** and final human authority; **ORION** is the protected analytical core; **Frey** is the AI co-author intelligence contour; **Cosmographer** is a replaceable research/navigation intelligence role; **BHRIGU** is the public research/product/economic surface; and **AiBhrigu** is the GitHub namespace and public proof layer.
+
+Repository-specific scientific and historical credits remain valid in their documented scope and do not silently redefine the root system hierarchy.
 
 Public surfaces expose selected interfaces, system structure, research outputs, acceptance evidence, visual systems, machine-readable contracts, and achieved proof.
 
