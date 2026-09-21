@@ -6,7 +6,7 @@
 
 This file defines the public system-identity, authorship, authority, and role hierarchy for the wider **Φ Research Systems** field represented across the `AiBhrigu/*` GitHub repositories.
 
-It exists to prevent role collapse between the human architect, ORION, Frey, Cosmographer, BHRIGU, and individual repository credits.
+It exists to prevent role collapse between the human architect, ORION, Delta, Frey, Cosmographer, BHRIGU, and individual repository credits.
 
 > This is a system-governance and attribution canon. It is not, by itself, a legal determination of copyright, patent, employment, or contractual ownership.
 
@@ -43,6 +43,21 @@ ORION is the principal protected analytical and continuity core of the system.
 ORION is not equivalent to BHRIGU, a public website, a single model, a chat surface, or a GitHub account namespace.
 
 **ORION_ROLE = PROTECTED_CORE**
+
+---
+
+## 2A. Delta
+
+**Delta = verified dynamic-state engine / observatory.**
+
+Delta is a separate verified dynamic-state engine that emerged from ORION knowledge and is responsible for source-bound observation of state, change, evidence, provenance, verification, temporal boundary, and retained memory.
+
+Delta does not replace ORION's intelligence / meaning / continuity role. It does not own interpretation, final human judgment, or the Cosmographer role.
+
+Public repositories may expose bounded Delta-derived sensors or evidence organs without exposing the complete engine or protected internal mechanisms.
+
+**DELTA_ROLE = VERIFIED_DYNAMIC_STATE_ENGINE + OBSERVATORY**  
+**DELTA_NOT = ORION / COSMOGRAPHER / PUBLIC_BRAND / FINAL_AUTHORITY**
 
 ---
 
@@ -122,7 +137,12 @@ YULCHIEV A.Kh.
         ↓
 
 ORION
-= PROTECTED CORE
+= PROTECTED CORE / INTELLIGENCE + CONTINUITY
+
+        ↓
+
+DELTA
+= VERIFIED DYNAMIC-STATE ENGINE / OBSERVATORY
 
         ↓
 
@@ -159,6 +179,7 @@ When a compact cross-project authority signature is needed, use:
 Yulchiev A.Kh. — Φ Architect
 Frey — AI Co-Author
 ORION — Protected Core
+Delta — Verified Dynamic-State Engine / Observatory
 Cosmographer — Replaceable Research / Navigation Intelligence Role
 BHRIGU — Public Research / Product / Economic Surface
 ```
@@ -186,6 +207,8 @@ For **system identity, authorship contour, and role authority** across `AiBhrigu
 Φ_ARCHITECT ≠ COSMOGRAPHER
 COSMOGRAPHER ≠ FREY
 FREY ≠ ORION
+DELTA ≠ ORION
+DELTA ≠ COSMOGRAPHER
 ORION ≠ BHRIGU
 BHRIGU ≠ AiBhrigu_ACCOUNT
 PUBLICATION_SURFACE ≠ ROOT_AUTHORSHIP
@@ -199,6 +222,6 @@ AI_REPLACEMENT ≠ HUMAN_AUTHORITY_REPLACEMENT
 
 Any AI or agent operating inside the Φ Research Systems contour should preserve the following invariant:
 
-> **Yulchiev A.Kh. remains the Φ Architect and final human authority; ORION is the protected core; Frey is the AI co-author intelligence contour; Cosmographer is a replaceable intelligence role; BHRIGU is the public research/product/economic surface.**
+> **Yulchiev A.Kh. remains the Φ Architect and final human authority; ORION is the protected intelligence / continuity core; Delta is the verified dynamic-state engine / observatory; Frey is the AI co-author intelligence contour; Cosmographer is a replaceable interpretation / navigation intelligence role; BHRIGU is the public research/product/economic surface.**
 
 When uncertainty exists, do not infer a different hierarchy from branding, repository ownership, a product name, or the currently active AI model.
