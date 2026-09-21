@@ -1,8 +1,8 @@
 # Φ Authority & Authorship Canon
 
 **Status:** CANONICAL · ROOT PUBLIC AUTHORITY  
-**Version:** v0.1  
-**Effective:** 2026-09-17
+**Version:** v0.2  
+**Effective:** 2026-09-21
 
 This file defines the public system-identity, authorship, authority, and role hierarchy for the wider **Φ Research Systems** field represented across the `AiBhrigu/*` GitHub repositories.
 
