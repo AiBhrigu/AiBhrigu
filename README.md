@@ -90,6 +90,16 @@ A visual research system exploring Solar-System structure through ephemerides, c
 
 [Public Φ-Cosmography →](https://github.com/AiBhrigu/phi-cosmography-open)
 
+### Φ Design · Cosmographic Scene
+
+A production-proven Φ Design capability for translating bounded semantic authority and relation into one native cosmographic scene while preserving public/protected boundaries, human visual acceptance, and verifiable artifact authority.
+
+The current BHRIGU Home is the first modern Class-B proof: one continuous Human → intelligence mediation → Φ field → change → Human Judgment scene, accepted visually, locked as a WebP, bound by SHA-256, checked by CI, and verified in Production.
+
+This proves a bounded cosmographic-scene capability. It does not claim a generalized automatic renderer or expose protected ORION mechanisms.
+
+[Open production proof →](https://www.bhrigu.io/?lang=en)
+
 ### Frey
 
 AI co-author intelligence contour for temporal reading, dialogue, synthesis, and research navigation.
