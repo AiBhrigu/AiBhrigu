@@ -10,7 +10,7 @@ It exposes selected public-safe systems, repositories, evidence, interfaces, and
 
 ---
 
-<a name="legacy-system-hierarchy" id="-system-hierarchy"></a>
+<a name="-system-hierarchy">&#8203;</a>
 
 ## Φ System hierarchy
 
@@ -30,7 +30,7 @@ These components are related but not collapsed into one identity. The GitHub acc
 
 ---
 
-<a name="legacy-working-model" id="-working-model"></a>
+<a name="-working-model">&#8203;</a>
 
 ## Φ Working model
 
@@ -66,7 +66,7 @@ These capabilities belong to the wider Φ Research Systems field. BHRIGU may exp
 
 ---
 
-<a name="legacy-selected-public-working-proof" id="-selected-public-working-proof"></a>
+<a name="-selected-public-working-proof">&#8203;</a>
 
 ## Δ Selected public working proof
 
@@ -116,7 +116,7 @@ AI co-author intelligence contour for temporal reading, dialogue, synthesis, and
 
 ---
 
-<a name="legacy-external-proof-field" id="-external-proof-field"></a>
+<a name="-external-proof-field">&#8203;</a>
 
 ## Δ External proof field
 
@@ -211,7 +211,7 @@ Public descriptions are not evidence of protected mechanisms.
 
 ---
 
-<a name="legacy-public-boundary" id="-public-boundary"></a>
+<a name="-public-boundary">&#8203;</a>
 
 ## Φ Public boundary
 
