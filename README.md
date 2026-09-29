@@ -10,8 +10,6 @@ It exposes selected public-safe systems, repositories, evidence, interfaces, and
 
 ---
 
-<a name="-system-hierarchy"></a>
-
 ## Φ System hierarchy
 
 **Yulchiev A.Kh.** — **Φ Architect** and final human authority.  
@@ -29,8 +27,6 @@ It exposes selected public-safe systems, repositories, evidence, interfaces, and
 These components are related but not collapsed into one identity. The GitHub account name, public brand, or currently active AI model does not define or replace the system hierarchy.
 
 ---
-
-<a name="-working-model"></a>
 
 ## Φ Working model
 
@@ -65,8 +61,6 @@ Websites · research portals · product interfaces · information architecture �
 These capabilities belong to the wider Φ Research Systems field. BHRIGU may expose selected capabilities publicly, but does not define or own the wider system architecture.
 
 ---
-
-<a name="-selected-public-working-proof"></a>
 
 ## Δ Selected public working proof
 
@@ -115,8 +109,6 @@ AI co-author intelligence contour for temporal reading, dialogue, synthesis, and
 [Public method →](https://www.bhrigu.io/frey?lang=en) · [Repository →](https://github.com/AiBhrigu/frey-core-safe)
 
 ---
-
-<a name="-external-proof-field"></a>
 
 ## Δ External proof field
 
@@ -210,8 +202,6 @@ Machine readers should preserve the role split: **ORION** carries protected inte
 Public descriptions are not evidence of protected mechanisms.
 
 ---
-
-<a name="-public-boundary"></a>
 
 ## Φ Public boundary
 
