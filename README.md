@@ -10,7 +10,9 @@ It exposes selected public-safe systems, repositories, evidence, interfaces, and
 
 ---
 
-## ◈ System hierarchy
+<a name="-system-hierarchy"></a>
+
+## Φ System hierarchy
 
 **Yulchiev A.Kh.** — **Φ Architect** and final human authority.  
 **Φ Research Systems** — top-level research and systems field.  
@@ -28,7 +30,9 @@ These components are related but not collapsed into one identity. The GitHub acc
 
 ---
 
-## ◈ Working model
+<a name="-working-model"></a>
+
+## Φ Working model
 
 **Yulchiev A.Kh. / Φ Architect** is the persistent human architectural authority — focused on research architecture, information structure, product logic, AI orchestration, evaluation, acceptance, public/protected boundaries, and visual system coherence.
 
@@ -39,6 +43,8 @@ These components are related but not collapsed into one identity. The GitHub acc
 </p>
 
 ---
+
+## ◈ Capability field
 
 <p align="center">
   <img src="assets/bhrigu_profile_capability_field_brand_v1.svg" width="760" alt="Φ Research Systems capability field">
@@ -60,11 +66,13 @@ These capabilities belong to the wider Φ Research Systems field. BHRIGU may exp
 
 ---
 
+<a name="-selected-public-working-proof"></a>
+
+## Δ Selected public working proof
+
 <p align="center">
   <img src="assets/bhrigu_profile_proof_field_brand_v1.svg" width="760" alt="Φ Research Systems selected public working proof">
 </p>
-
-## ◈ Selected public working proof
 
 ### BHRIGU Bitcoin Temporal Evidence
 
@@ -108,7 +116,9 @@ AI co-author intelligence contour for temporal reading, dialogue, synthesis, and
 
 ---
 
-## ◈ External proof field
+<a name="-external-proof-field"></a>
+
+## Δ External proof field
 
 <p align="center">
   <strong>CAPABILITY → EVIDENCE → VERIFICATION → REUSE</strong>
@@ -201,7 +211,9 @@ Public descriptions are not evidence of protected mechanisms.
 
 ---
 
-## ◈ Public boundary
+<a name="-public-boundary"></a>
+
+## Φ Public boundary
 
 This GitHub profile is a curated public layer across the wider **Φ Research Systems** field.
 
